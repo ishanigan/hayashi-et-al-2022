@@ -1,4 +1,4 @@
-# caron-ellis-hayashi-analysis
+# hayashi et al. 2022 analysis
 
 Analysis code for Hayashi et al.
 
