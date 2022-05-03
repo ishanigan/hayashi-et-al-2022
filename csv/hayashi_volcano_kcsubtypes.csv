@@ -1,0 +1,1837 @@
+,comparison,ratio,p-value,Log fold change (base 2),-Log p-value (base 10)
+0,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' d,8.0,1.0,3.0,0.0
+1,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' da1,7.5,0.6852613414261507,2.9068905956085187,0.37795499315014014
+2,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' da2,0.0,0.10191082802547823,-inf,2.2836570831085217
+3,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' da3,0.0,1.0,-inf,0.0
+4,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' da4l,0.0,1.0,-inf,0.0
+5,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' da4m,0.0,1.0,-inf,0.0
+6,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dc1,34.0,0.12423055907084216,5.087462841250339,2.0856160924781633
+7,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dc2,18.0,0.6949607568912353,4.169925001442312,0.3638998999162451
+8,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dc3,28.0,0.3082204658916272,4.807354922057604,1.1769399537205771
+9,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dc4,0.0,0.5994696720896227,-inf,0.5117098944687426
+10,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl1,0.0,0.22117832359460732,-inf,1.508786008735166
+11,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl2d,0.0,1.0,-inf,0.0
+12,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl2v,0.0,1.0,-inf,0.0
+13,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl3,9.0,1.0,3.169925001442312,0.0
+14,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl4,0.0,1.0,-inf,0.0
+15,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dl5,11.5,1.0,3.523561956057013,0.0
+16,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm1,3.5,0.2295354108946234,1.8073549220576042,1.4716979655467766
+17,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm2,8.0,1.0,3.0,0.0
+18,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm3,0.0,1.0,-inf,0.0
+19,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm4,0.0,1.0,-inf,0.0
+20,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm5,9.0,1.0,3.169925001442312,0.0
+21,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dm6,12.0,1.0,3.584962500721156,0.0
+22,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dp1l,2.3333333333333335,0.06715825093095802,1.222392421336448,2.7007034904270277
+23,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' dp1m,3.5,0.09099375866722817,1.8073549220576042,2.396964360891835
+24,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' v,0.0,1.0,-inf,0.0
+25,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va1d,0.0,0.36748392176592937,-inf,1.0010757115831086
+26,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va1v,0.0,0.3638391207295605,-inf,1.011043485063276
+27,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va2,4.0,0.27012970088554095,2.0,1.3088530616760956
+28,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va3,7.5,0.6852613414261507,2.9068905956085187,0.37795499315014014
+29,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va4,4.0,0.4200460622220635,2.0,0.8673909017609585
+30,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va5,3.5,0.09099375866722817,1.8073549220576042,2.396964360891835
+31,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va6,17.0,0.6965020078037895,4.087462841250339,0.3616846030617806
+32,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va7l,5.0,0.4810938451460539,2.321928094887362,0.7316929236529852
+33,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' va7m,8.0,1.0,3.0,0.0
+34,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc1,3.0,0.3523142154742722,1.584962500721156,1.0432318439685264
+35,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc2,2.0,0.27722021147129006,1.0,1.2829431013688173
+36,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc3l,0.0,0.22029309441416453,-inf,1.5127963719467399
+37,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc3m,0.0,0.6000710689783799,-inf,0.5107071824831365
+38,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc4,0.0,1.0,-inf,0.0
+39,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vc5,2.3333333333333335,0.06715825093095802,1.222392421336448,2.7007034904270277
+40,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vl1,0.0,1.0,-inf,0.0
+41,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vl2a,15.0,1.0,3.9068905956085187,0.0
+42,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vl2p,2.1666666666666665,0.0052684749710530015,1.1154772174199359,5.246014337613968
+43,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm1,0.0,1.0,-inf,0.0
+44,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm2,0.0,1.0,-inf,0.0
+45,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm3,2.0,0.27722021147129006,1.0,1.2829431013688173
+46,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm4,2.5,0.15119324338460574,1.3219280948873624,1.8891965028449311
+47,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm5d,0.0,0.6049681579296621,-inf,0.5025794538576024
+48,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm5v,13.0,1.0,3.700439718141092,0.0
+49,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm7d,0.0,1.0,-inf,0.0
+50,Orco -/- alpha/beta vs. Orco -/- alpha'/beta' vm7v,0.0,1.0,-inf,0.0
+51,Orco -/- alpha/beta vs. Orco -/- gamma d,4.0,1.0,2.0,0.0
+52,Orco -/- alpha/beta vs. Orco -/- gamma da1,2.5,0.5858865976112442,1.3219280948873624,0.5346290275671632
+53,Orco -/- alpha/beta vs. Orco -/- gamma da2,0.0,1.0,-inf,0.0
+54,Orco -/- alpha/beta vs. Orco -/- gamma da3,0.0,1.0,-inf,0.0
+55,Orco -/- alpha/beta vs. Orco -/- gamma da4l,5.0,1.0,2.321928094887362,0.0
+56,Orco -/- alpha/beta vs. Orco -/- gamma da4m,0.0,1.0,-inf,0.0
+57,Orco -/- alpha/beta vs. Orco -/- gamma dc1,5.666666666666667,0.20590740365902346,2.5025003405291835,1.5803287080473833
+58,Orco -/- alpha/beta vs. Orco -/- gamma dc2,4.5,0.7884499561493499,2.169925001442312,0.23768634174681533
+59,Orco -/- alpha/beta vs. Orco -/- gamma dc3,2.5454545454545454,0.40393979045345696,1.3479233034203069,0.9064894456586343
+60,Orco -/- alpha/beta vs. Orco -/- gamma dc4,3.0,1.0,1.584962500721156,0.0
+61,Orco -/- alpha/beta vs. Orco -/- gamma dl1,9.5,0.168994967191958,3.2479275134435857,1.777886344431737
+62,Orco -/- alpha/beta vs. Orco -/- gamma dl2d,1.6666666666666667,0.3921864451426711,0.7369655941662062,0.9360179269016086
+63,Orco -/- alpha/beta vs. Orco -/- gamma dl2v,2.3333333333333335,0.7009244292000398,1.222392421336448,0.3553552020383897
+64,Orco -/- alpha/beta vs. Orco -/- gamma dl3,4.5,1.0,2.169925001442312,0.0
+65,Orco -/- alpha/beta vs. Orco -/- gamma dl4,3.0,1.0,1.584962500721156,0.0
+66,Orco -/- alpha/beta vs. Orco -/- gamma dl5,7.666666666666667,0.14169173431298673,2.9385994553358565,1.954101466287626
+67,Orco -/- alpha/beta vs. Orco -/- gamma dm1,1.0,0.02210978054119192,0.0,3.811735209933553
+68,Orco -/- alpha/beta vs. Orco -/- gamma dm2,4.0,1.0,2.0,0.0
+69,Orco -/- alpha/beta vs. Orco -/- gamma dm3,1.6666666666666667,0.3921864451426711,0.7369655941662062,0.9360179269016086
+70,Orco -/- alpha/beta vs. Orco -/- gamma dm4,0.0,0.5922554975744532,-inf,0.523817153462976
+71,Orco -/- alpha/beta vs. Orco -/- gamma dm5,1.5,0.12080490041753107,0.5849625007211562,2.113578427933925
+72,Orco -/- alpha/beta vs. Orco -/- gamma dm6,2.0,0.3770939255712451,1.0,0.9752609831179309
+73,Orco -/- alpha/beta vs. Orco -/- gamma dp1l,7.0,0.6831610192764713,2.807354922057604,0.3810246942296957
+74,Orco -/- alpha/beta vs. Orco -/- gamma dp1m,1.5555555555555556,0.06735235226453,0.6374299206152918,2.697817450758973
+75,Orco -/- alpha/beta vs. Orco -/- gamma v,0.0,1.0,-inf,0.0
+76,Orco -/- alpha/beta vs. Orco -/- gamma va1d,5.0,0.5724400391972206,2.321928094887362,0.5578472840655271
+77,Orco -/- alpha/beta vs. Orco -/- gamma va1v,2.8,0.7764110747655866,1.4854268271702418,0.25307316353658543
+78,Orco -/- alpha/beta vs. Orco -/- gamma va2,1.1428571428571428,0.04936392576675557,0.19264507794239583,3.0085353691854677
+79,Orco -/- alpha/beta vs. Orco -/- gamma va3,1.3636363636363635,0.02248712975181725,0.44745897697122117,3.79481214446283
+80,Orco -/- alpha/beta vs. Orco -/- gamma va4,2.0,0.6255128703979086,1.0,0.46918337311114466
+81,Orco -/- alpha/beta vs. Orco -/- gamma va5,2.8,0.7764110747655866,1.4854268271702418,0.25307316353658543
+82,Orco -/- alpha/beta vs. Orco -/- gamma va6,2.4285714285714284,0.448837750754645,1.2801079191927351,0.8010938134389044
+83,Orco -/- alpha/beta vs. Orco -/- gamma va7l,5.0,1.0,2.321928094887362,0.0
+84,Orco -/- alpha/beta vs. Orco -/- gamma va7m,1.3333333333333333,0.09741878361053133,0.41503749927884376,2.328736236716065
+85,Orco -/- alpha/beta vs. Orco -/- gamma vc1,3.0,1.0,1.584962500721156,0.0
+86,Orco -/- alpha/beta vs. Orco -/- gamma vc2,1.0,0.23315998532686338,0.0,1.4560304287364103
+87,Orco -/- alpha/beta vs. Orco -/- gamma vc3l,2.4285714285714284,0.448837750754645,1.2801079191927351,0.8010938134389044
+88,Orco -/- alpha/beta vs. Orco -/- gamma vc3m,2.5,0.7423497157131349,1.3219280948873624,0.2979348318715031
+89,Orco -/- alpha/beta vs. Orco -/- gamma vc4,1.6666666666666667,0.3921864451426711,0.7369655941662062,0.9360179269016086
+90,Orco -/- alpha/beta vs. Orco -/- gamma vc5,7.0,0.6831610192764713,2.807354922057604,0.3810246942296957
+91,Orco -/- alpha/beta vs. Orco -/- gamma vl1,0.0,1.0,-inf,0.0
+92,Orco -/- alpha/beta vs. Orco -/- gamma vl2a,7.5,0.3677751748928142,2.9068905956085187,1.000283465303009
+93,Orco -/- alpha/beta vs. Orco -/- gamma vl2p,13.0,0.19392542319543032,3.700439718141092,1.6402816103441804
+94,Orco -/- alpha/beta vs. Orco -/- gamma vm1,0.0,0.338497187126183,-inf,1.0832394964835868
+95,Orco -/- alpha/beta vs. Orco -/- gamma vm2,0.4,0.008233663402927471,-1.3219280948873622,4.799524235395485
+96,Orco -/- alpha/beta vs. Orco -/- gamma vm3,0.2857142857142857,0.0006208575509947849,-1.8073549220576042,7.384408888825726
+97,Orco -/- alpha/beta vs. Orco -/- gamma vm4,2.5,0.6661875024520817,1.3219280948873624,0.40618411285201345
+98,Orco -/- alpha/beta vs. Orco -/- gamma vm5d,5.5,0.7357469003577726,2.4594316186372973,0.3068691047788596
+99,Orco -/- alpha/beta vs. Orco -/- gamma vm5v,2.6,0.7692762437489862,1.3785116232537298,0.2623051493411425
+100,Orco -/- alpha/beta vs. Orco -/- gamma vm7d,3.0,1.0,1.584962500721156,0.0
+101,Orco -/- alpha/beta vs. Orco -/- gamma vm7v,0.0,0.574527475729816,-inf,0.5542073573716257
+102,Orco -/- alpha/beta vs. Orco +/+ alpha/beta d,0.8888888888888888,0.314173666977737,-0.16992500144231243,1.1578093664190714
+103,Orco -/- alpha/beta vs. Orco +/+ alpha/beta da1,1.6666666666666667,0.8284187646678585,0.7369655941662062,0.18823649801776268
+104,Orco -/- alpha/beta vs. Orco +/+ alpha/beta da2,0.0,1.0,-inf,0.0
+105,Orco -/- alpha/beta vs. Orco +/+ alpha/beta da3,1.0,1.0,0.0,0.0
+106,Orco -/- alpha/beta vs. Orco +/+ alpha/beta da4l,2.5,0.7037142800795247,1.3219280948873624,0.35138285736413866
+107,Orco -/- alpha/beta vs. Orco +/+ alpha/beta da4m,1.0,1.0,0.0,0.0
+108,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dc1,1.2592592592592593,0.5477295719013586,0.3325753390868709,0.6019735957682305
+109,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dc2,1.8,0.6833804495002775,0.8479969065549501,0.3807035474065575
+110,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dc3,1.75,0.6108685073880356,0.8073549220576041,0.4928735518288432
+111,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dc4,1.125,0.6152638737117235,0.16992500144231237,0.4857040402509121
+112,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl1,1.1176470588235294,0.4622551118577942,0.16046467219324612,0.7716383501329032
+113,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl2d,1.0,0.7440978105999014,0.0,0.29558278692984147
+114,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl2v,2.3333333333333335,0.7440978105999014,1.222392421336448,0.29558278692984147
+115,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl3,0.8181818181818182,0.2343451214057694,-0.2895066171949848,1.4509603723860334
+116,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl4,0.75,0.4473491624218536,-0.4150374992788438,0.8044158653008837
+117,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dl5,2.090909090909091,0.3472356093972646,1.0641303374197155,1.0577517398269598
+118,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm1,2.3333333333333335,0.7440978105999014,1.222392421336448,0.29558278692984147
+119,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm2,1.3333333333333333,1.0,0.41503749927884376,0.0
+120,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm3,2.5,0.7037142800795247,1.3219280948873624,0.35138285736413866
+121,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm4,2.5,0.7037142800795247,1.3219280948873624,0.35138285736413866
+122,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm5,3.0,0.36891007594594954,1.584962500721156,0.9972023612639
+123,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dm6,4.0,0.10859731655551275,2.0,2.220108581221169
+124,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dp1l,1.4,1.0,0.48542682717024166,0.0
+125,Orco -/- alpha/beta vs. Orco +/+ alpha/beta dp1m,0.8235294117647058,0.116136230137001,-0.28010791919273537,2.1529913792085837
+126,Orco -/- alpha/beta vs. Orco +/+ alpha/beta v,0.0,1.0,-inf,0.0
+127,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va1d,1.3636363636363635,1.0,0.44745897697122117,0.0
+128,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va1v,2.0,0.6427032340619624,1.0,0.4420721946244616
+129,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va2,1.6,1.0,0.6780719051126377,0.0
+130,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va3,1.6666666666666667,0.8284187646678585,0.7369655941662062,0.18823649801776268
+131,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va4,2.0,1.0,1.0,0.0
+132,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va5,1.4,1.0,0.48542682717024166,0.0
+133,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va6,1.5454545454545454,1.0,0.6280312226130421,0.0
+134,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va7l,5.0,0.4052718764831324,2.321928094887362,0.9031971371382751
+135,Orco -/- alpha/beta vs. Orco +/+ alpha/beta va7m,2.0,0.7658814092471474,1.0,0.2667279394423349
+136,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc1,0.42857142857142855,0.09549901377867709,-1.222392421336448,2.3486393584736227
+137,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc2,0.3333333333333333,0.06561209307439166,-1.5849625007211563,2.72399525437545
+138,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc3l,1.2142857142857142,0.6956934727208564,0.2801079191927352,0.3628461284152902
+139,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc3m,1.4285714285714286,1.0,0.5145731728297582,0.0
+140,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc4,0.8333333333333334,0.36254420742901716,-0.2630344058337938,1.0146088605945676
+141,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vc5,1.1666666666666667,0.7744277737325569,0.22239242133644802,0.2556308788223027
+142,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vl1,2.0,1.0,1.0,0.0
+143,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vl2a,2.142857142857143,0.4955967064077901,1.0995356735509143,0.7019927749155154
+144,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vl2p,1.4444444444444444,1.0,0.5305147166987798,0.0
+145,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm1,2.0,0.7414635233559328,1.0,0.2991293116607858
+146,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm2,1.0,1.0,0.0,0.0
+147,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm3,0.4,0.12447004763997738,-1.3219280948873622,2.0836901732266764
+148,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm4,1.0,0.7440978105999014,0.0,0.29558278692984147
+149,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm5d,1.5714285714285714,1.0,0.6520766965796931,0.0
+150,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm5v,1.625,1.0,0.7004397181410922,0.0
+151,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm7d,0.75,0.26314386736951173,-0.4150374992788438,1.3350543721489039
+152,Orco -/- alpha/beta vs. Orco +/+ alpha/beta vm7v,1.3333333333333333,1.0,0.41503749927884376,0.0
+153,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle d,1.6,1.0,0.6780719051126377,0.0
+154,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle da1,15.0,0.002924792424760235,3.9068905956085187,5.834531766710453
+155,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle da2,0.0,0.0006374882616516026,-inf,7.357974694196741
+156,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle da3,0.1111111111111111,0.0016136550222124468,-3.1699250014423126,6.4292534728646995
+157,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle da4l,0.7142857142857143,0.23632976364775193,-0.4854268271702417,1.4425271456845823
+158,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle da4m,0.16666666666666666,0.01938291232478195,-2.584962500721156,3.9433634090530867
+159,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dc1,17.0,5.941246972163153e-07,4.087462841250339,14.336176611641966
+160,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dc2,3.0,0.12562639302359907,1.584962500721156,2.0744429114852094
+161,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dc3,9.333333333333334,0.00012082553015417793,3.222392421336448,9.021162952457296
+162,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dc4,1.2857142857142858,0.7982984928304705,0.36257007938470837,0.22527270030602242
+163,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl1,2.111111111111111,0.41396693024030745,1.078002512001273,0.881969186993892
+164,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl2d,0.625,0.14885630604924105,-0.6780719051126377,1.904773827290143
+165,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl2v,0.875,0.41633882663859023,-0.19264507794239588,0.8762558631235084
+166,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl3,1.8,0.7847873870869712,0.8479969065549501,0.24234244235991356
+167,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl4,0.3,0.008435760771018475,-1.7369655941662063,4.775275374873626
+168,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dl5,2.875,0.0794306005984763,1.5235619560570128,2.532871587010071
+169,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm1,0.6363636363636364,0.08237180226330935,-0.6520766965796931,2.4965121061747513
+170,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm2,0.6666666666666666,0.09455470145771164,-0.5849625007211563,2.3585767605479346
+171,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm3,0.5,0.054482354646044076,-1.0,2.9098783976995954
+172,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm4,0.7142857142857143,0.23632976364775193,-0.4854268271702417,1.4425271456845823
+173,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm5,1.8,0.7847873870869712,0.8479969065549501,0.24234244235991356
+174,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dm6,2.0,0.6212521453210327,1.0,0.47601824834421036
+175,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dp1l,2.3333333333333335,0.7440978105999014,1.222392421336448,0.29558278692984147
+176,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle dp1m,1.75,0.8205851784390246,0.8073549220576041,0.19773756099553502
+177,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle v,0.2,0.04253077204634671,-2.321928094887362,3.157527416898835
+178,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va1d,5.0,0.04361570303216096,2.321928094887362,3.132338032181561
+179,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va1v,2.8,0.2275718776420615,1.4854268271702418,1.4802891448120667
+180,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va2,0.7272727272727273,0.144634810491456,-0.4594316186372972,1.933543261774408
+181,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va3,2.142857142857143,0.4955967064077901,1.0995356735509143,0.7019927749155154
+182,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va4,1.0,0.7188492216163989,0.0,0.3301036489319574
+183,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va5,2.0,0.6427032340619624,1.0,0.4420721946244616
+184,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va6,4.25,0.03747412634905206,2.0874628412503395,3.284104548165771
+185,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va7l,0.625,0.14885630604924105,-0.6780719051126377,1.904773827290143
+186,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle va7m,0.8,0.2160804119854226,-0.3219280948873623,1.5321046628658357
+187,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc1,0.25,0.002014782839155937,-2.0,6.207243861522373
+188,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc2,0.2222222222222222,0.008484504130944892,-2.1699250014423126,4.769513822670152
+189,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc3l,3.4,0.10906900047746254,1.765534746362977,2.2157745651298444
+190,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc3m,0.9090909090909091,0.3523984006363548,-0.13750352374993496,1.0429929234197566
+191,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc4,0.625,0.14885630604924105,-0.6780719051126377,1.904773827290143
+192,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vc5,1.4,1.0,0.48542682717024166,0.0
+193,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vl1,0.4,0.12447004763997738,-1.3219280948873622,2.0836901732266764
+194,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vl2a,3.75,0.08857058967183848,1.9068905956085185,2.4239554214901524
+195,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vl2p,1.8571428571428572,0.641892897504148,0.8930847960834881,0.44333381552676027
+196,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm1,0.8571428571428571,0.3887157184352959,-0.22239242133644802,0.9449070034664095
+197,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm2,1.0,1.0,0.0,0.0
+198,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm3,0.2,0.004200908219752976,-2.321928094887362,5.4724545342715905
+199,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm4,1.0,0.7440978105999014,0.0,0.29558278692984147
+200,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm5d,1.375,1.0,0.45943161863729726,0.0
+201,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm5v,1.8571428571428572,0.641892897504148,0.8930847960834881,0.44333381552676027
+202,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm7d,0.75,0.26314386736951173,-0.4150374992788438,1.3350543721489039
+203,Orco -/- alpha/beta vs. Orco +/+ alpha/beta shuffle vm7v,0.4,0.023086213363342455,-1.3219280948873622,3.7685196637225147
+204,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' d,8.0,1.0,3.0,0.0
+205,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' da1,3.0,0.5487375196646026,1.584962500721156,0.6001350580594002
+206,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' da2,0.0,0.19428571428574548,-inf,1.6384254493071921
+207,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' da3,0.0,1.0,-inf,0.0
+208,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' da4l,0.0,0.5845373384513197,-inf,0.5369346190986513
+209,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' da4m,1.0,0.3517241379310889,0.0,1.044908109696094
+210,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dc1,11.333333333333334,0.0608964963909214,3.5025003405291835,2.7985796364479723
+211,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dc2,9.0,0.37230847370600856,3.169925001442312,0.9880325379380684
+212,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dc3,9.333333333333334,0.2086406127339578,3.222392421336448,1.5671420634481337
+213,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dc4,3.0,0.7042353773317982,1.584962500721156,0.3506426359033441
+214,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl1,3.8,0.7872083263201766,1.925999418556223,0.23926235616566024
+215,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl2d,0.0,0.5845373384513197,-inf,0.5369346190986513
+216,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl2v,3.5,0.6872904334369349,1.8073549220576042,0.3749983200014486
+217,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl3,0.0,0.20887418334280342,-inf,1.5660232018633145
+218,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl4,0.0,1.0,-inf,0.0
+219,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dl5,7.666666666666667,0.4198725894157353,2.9385994553358565,0.8678039722611944
+220,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm1,1.1666666666666667,0.02149224538886758,0.22239242133644802,3.8400630884966014
+221,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm2,2.0,0.2517616754351867,1.0,1.3792723713578103
+222,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm3,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+223,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm4,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+224,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm5,1.2857142857142858,0.017569603943249225,0.36257007938470837,4.041584918684937
+225,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dm6,2.4,0.33032342463579734,1.2630344058337937,1.1076830298272715
+226,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dp1l,2.3333333333333335,0.41079154626827624,1.222392421336448,0.8896693798437718
+227,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' dp1m,1.4,0.009501228669388273,0.48542682717024166,4.656334155118695
+228,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' v,0.0,1.0,-inf,0.0
+229,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va1d,0.0,0.045083773943084486,-inf,3.0992328767421826
+230,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va1v,0.0,0.0747617833008856,-inf,2.593448443002362
+231,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va2,4.0,1.0,2.0,0.0
+232,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va3,3.0,0.5487375196646026,1.584962500721156,0.6001350580594002
+233,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va4,0.0,1.0,-inf,0.0
+234,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va5,14.0,0.3085098538611385,3.807354922057604,1.1760014949437618
+235,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va6,5.666666666666667,0.7684368771794596,2.5025003405291835,0.263396857074487
+236,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va7l,1.6666666666666667,0.1865405941532174,0.7369655941662062,1.6791064005634928
+237,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' va7m,8.0,1.0,3.0,0.0
+238,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc1,1.0,0.08842604260163514,0.0,2.425588753158462
+239,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc2,0.0,1.0,-inf,0.0
+240,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc3l,8.5,0.3750481667064701,3.0874628412503395,0.9807008167094342
+241,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc3m,5.0,1.0,2.321928094887362,0.0
+242,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc4,1.6666666666666667,0.1865405941532174,0.7369655941662062,1.6791064005634928
+243,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vc5,7.0,1.0,2.807354922057604,0.0
+244,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vl1,2.0,0.47913095475396633,1.0,0.7357813269652945
+245,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vl2a,15.0,0.3157800054456303,3.9068905956085187,1.1527094931433814
+246,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vl2p,6.5,0.7386335627896774,2.700439718141092,0.30295333650527234
+247,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm1,2.0,0.3792481738373745,1.0,0.9695644759598822
+248,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm2,1.0,0.1702434976892829,0.0,1.7705255274026812
+249,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm3,0.0,1.0,-inf,0.0
+250,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm4,5.0,1.0,2.321928094887362,0.0
+251,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm5d,5.5,1.0,2.4594316186372973,0.0
+252,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm5v,4.333333333333333,1.0,2.1154772174199357,0.0
+253,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm7d,3.0,0.6535821053662609,1.584962500721156,0.42528711438173605
+254,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' vm7v,2.0,0.3303719455036449,1.0,1.107536151643686
+255,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle d,8.0,1.0,3.0,0.0
+256,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle da1,15.0,0.3157800054456303,3.9068905956085187,1.1527094931433814
+257,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle da2,0.0,1.0,-inf,0.0
+258,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle da3,0.25,0.005279999856872426,-2.0,5.243829208371462
+259,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle da4l,1.25,0.0729579338235068,0.32192809488736235,2.6178722529220657
+260,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle da4m,0.14285714285714285,4.187558933773303e-05,-2.807354922057604,10.080807494181169
+261,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc1,34.0,0.003631954098618016,5.087462841250339,5.617984456368651
+262,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc2,9.0,0.37230847370600856,3.169925001442312,0.9880325379380684
+263,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.0028651361313041905,-inf,5.855139414654829
+264,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc4,4.5,1.0,2.169925001442312,0.0
+265,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl1,6.333333333333333,0.5752479088047335,2.662965012722429,0.5529541853540456
+266,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl2d,1.6666666666666667,0.1865405941532174,0.7369655941662062,1.6791064005634928
+267,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl2v,7.0,1.0,2.807354922057604,0.0
+268,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl3,4.5,1.0,2.169925001442312,0.0
+269,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl4,3.0,0.5820934404421351,1.584962500721156,0.5411242935497046
+270,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl5,7.666666666666667,0.4198725894157353,2.9385994553358565,0.8678039722611944
+271,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm1,3.5,0.6872904334369349,1.8073549220576042,0.3749983200014486
+272,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm2,8.0,1.0,3.0,0.0
+273,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm3,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+274,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm4,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+275,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm5,4.5,1.0,2.169925001442312,0.0
+276,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm6,6.0,1.0,2.584962500721156,0.0
+277,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dp1l,3.5,0.6872904334369349,1.8073549220576042,0.3749983200014486
+278,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle dp1m,4.666666666666667,1.0,2.222392421336448,0.0
+279,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle v,0.5,0.09691050428544613,-1.0,2.333967362602059
+280,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,0.045083773943084486,-inf,3.0992328767421826
+281,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,0.0747617833008856,-inf,2.593448443002362
+282,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va2,4.0,1.0,2.0,0.0
+283,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.045083773943084486,-inf,3.0992328767421826
+284,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va4,1.3333333333333333,0.13423828457124626,0.41503749927884376,2.0081388151645703
+285,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va5,3.5,0.7554555634626048,1.8073549220576042,0.2804343163881608
+286,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.046358912133145275,-inf,3.0713417264212564
+287,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va7l,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+288,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle va7m,1.6,0.13530165807586206,0.6780719051126377,2.000248489069974
+289,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc1,1.5,0.2497233112030274,0.5849625007211562,1.38740172921357
+290,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc2,0.6666666666666666,0.05102377741872483,-0.5849625007211563,2.9754635310098383
+291,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc3l,17.0,0.20417002621037894,4.087462841250339,1.5888021704587667
+292,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc3m,10.0,0.6937790522879763,3.321928094887362,0.3656017376264593
+293,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc4,2.5,0.6227894036210367,1.3219280948873624,0.47354685326299417
+294,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc5,2.3333333333333335,0.41079154626827624,1.222392421336448,0.8896693798437718
+295,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl1,0.6666666666666666,0.05102377741872483,-0.5849625007211563,2.9754635310098383
+296,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,0.045083773943084486,-inf,3.0992328767421826
+297,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl2p,6.5,0.7386335627896774,2.700439718141092,0.30295333650527234
+298,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm1,6.0,1.0,2.584962500721156,0.0
+299,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm2,0.6666666666666666,0.05102377741872483,-0.5849625007211563,2.9754635310098383
+300,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm3,0.6666666666666666,0.05102377741872483,-0.5849625007211563,2.9754635310098383
+301,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm4,1.6666666666666667,0.1865405941532174,0.7369655941662062,1.6791064005634928
+302,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm5d,5.5,1.0,2.4594316186372973,0.0
+303,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm5v,3.25,0.7464696786554489,1.7004397181410922,0.29240028083794106
+304,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm7d,2.0,0.3792481738373745,1.0,0.9695644759598822
+305,Orco -/- alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm7v,0.6666666666666666,0.004177434648828957,-0.5849625007211563,5.478057941224758
+306,Orco -/- alpha/beta vs. Orco +/+ gamma d,1.1428571428571428,0.26087142611131187,0.19264507794239583,1.343727613299842
+307,Orco -/- alpha/beta vs. Orco +/+ gamma da1,1.1538461538461537,0.1296432532434806,0.20645087746742624,2.0429688065814986
+308,Orco -/- alpha/beta vs. Orco +/+ gamma da2,0.0,1.0,-inf,0.0
+309,Orco -/- alpha/beta vs. Orco +/+ gamma da3,1.0,0.5502392344496685,0.0,0.5974021236017286
+310,Orco -/- alpha/beta vs. Orco +/+ gamma da4l,2.5,1.0,1.3219280948873624,0.0
+311,Orco -/- alpha/beta vs. Orco +/+ gamma da4m,0.5,0.25184026499811574,-1.0,1.378960261505734
+312,Orco -/- alpha/beta vs. Orco +/+ gamma dc1,3.7777777777777777,0.06999201824492435,1.917537839808027,2.65937406850664
+313,Orco -/- alpha/beta vs. Orco +/+ gamma dc2,3.0,0.4910996703018528,1.584962500721156,0.7111081772834212
+314,Orco -/- alpha/beta vs. Orco +/+ gamma dc3,2.8,0.44574939981273065,1.4854268271702418,0.8079983687059056
+315,Orco -/- alpha/beta vs. Orco +/+ gamma dc4,4.5,0.3465261319645413,2.169925001442312,1.0597970462708093
+316,Orco -/- alpha/beta vs. Orco +/+ gamma dl1,1.9,0.8340410856044904,0.925999418556223,0.18147261452205082
+317,Orco -/- alpha/beta vs. Orco +/+ gamma dl2d,0.8333333333333334,0.18330084503195493,-0.2630344058337938,1.696626514043695
+318,Orco -/- alpha/beta vs. Orco +/+ gamma dl2v,1.75,0.7533211829063328,0.8073549220576041,0.283263604399386
+319,Orco -/- alpha/beta vs. Orco +/+ gamma dl3,0.0,0.03188698506632141,-inf,3.445557344093943
+320,Orco -/- alpha/beta vs. Orco +/+ gamma dl4,0.0,0.5524015458225333,-inf,0.5934800590755835
+321,Orco -/- alpha/beta vs. Orco +/+ gamma dl5,7.666666666666667,0.013569132601806986,2.9385994553358565,4.299957727457862
+322,Orco -/- alpha/beta vs. Orco +/+ gamma dm1,1.0,0.2365634602034938,0.0,1.441538776374221
+323,Orco -/- alpha/beta vs. Orco +/+ gamma dm2,4.0,0.5031465405742079,2.0,0.6868738181621405
+324,Orco -/- alpha/beta vs. Orco +/+ gamma dm3,2.5,1.0,1.3219280948873624,0.0
+325,Orco -/- alpha/beta vs. Orco +/+ gamma dm4,1.6666666666666667,0.7195406021444666,0.7369655941662062,0.32914232319133896
+326,Orco -/- alpha/beta vs. Orco +/+ gamma dm5,1.5,0.5741466473671749,0.5849625007211562,0.5548704320747757
+327,Orco -/- alpha/beta vs. Orco +/+ gamma dm6,1.7142857142857142,0.7985990685537943,0.777607578663552,0.224896250702564
+328,Orco -/- alpha/beta vs. Orco +/+ gamma dp1l,1.75,0.7533211829063328,0.8073549220576041,0.283263604399386
+329,Orco -/- alpha/beta vs. Orco +/+ gamma dp1m,1.4,0.3595531012213772,0.48542682717024166,1.0228934041853992
+330,Orco -/- alpha/beta vs. Orco +/+ gamma v,0.0,1.0,-inf,0.0
+331,Orco -/- alpha/beta vs. Orco +/+ gamma va1d,1.875,0.8178865054212444,0.9068905956085185,0.20103169843436272
+332,Orco -/- alpha/beta vs. Orco +/+ gamma va1v,2.3333333333333335,1.0,1.222392421336448,0.0
+333,Orco -/- alpha/beta vs. Orco +/+ gamma va2,0.8888888888888888,0.10278964114834879,-0.16992500144231243,2.2750706980778204
+334,Orco -/- alpha/beta vs. Orco +/+ gamma va3,1.6666666666666667,0.6470011470292216,0.7369655941662062,0.43540721164011614
+335,Orco -/- alpha/beta vs. Orco +/+ gamma va4,0.8,0.15807052485650266,-0.3219280948873623,1.844713985692812
+336,Orco -/- alpha/beta vs. Orco +/+ gamma va5,2.0,1.0,1.0,0.0
+337,Orco -/- alpha/beta vs. Orco +/+ gamma va6,3.4,0.34428306398457464,1.765534746362977,1.0662910995524943
+338,Orco -/- alpha/beta vs. Orco +/+ gamma va7l,0.7142857142857143,0.06345992534978827,-0.4854268271702417,2.757346669162663
+339,Orco -/- alpha/beta vs. Orco +/+ gamma va7m,0.8,0.038566204805669156,-0.3219280948873623,3.2553789091748095
+340,Orco -/- alpha/beta vs. Orco +/+ gamma vc1,0.0,0.5524015458225333,-inf,0.5934800590755835
+341,Orco -/- alpha/beta vs. Orco +/+ gamma vc2,2.0,1.0,1.0,0.0
+342,Orco -/- alpha/beta vs. Orco +/+ gamma vc3l,3.4,0.34428306398457464,1.765534746362977,1.0662910995524943
+343,Orco -/- alpha/beta vs. Orco +/+ gamma vc3m,2.0,1.0,1.0,0.0
+344,Orco -/- alpha/beta vs. Orco +/+ gamma vc4,0.625,0.03223613404578514,-0.6780719051126377,3.434667280264926
+345,Orco -/- alpha/beta vs. Orco +/+ gamma vc5,1.1666666666666667,0.3618580148753417,0.22239242133644802,1.0165033681976239
+346,Orco -/- alpha/beta vs. Orco +/+ gamma vl1,1.0,0.5992516255673537,0.0,0.5120736930015626
+347,Orco -/- alpha/beta vs. Orco +/+ gamma vl2a,5.0,0.1886379129658553,2.321928094887362,1.6679259058364702
+348,Orco -/- alpha/beta vs. Orco +/+ gamma vl2p,3.25,0.5908381076934582,1.7004397181410922,0.5262132285542578
+349,Orco -/- alpha/beta vs. Orco +/+ gamma vm1,3.0,1.0,1.584962500721156,0.0
+350,Orco -/- alpha/beta vs. Orco +/+ gamma vm2,0.25,0.0024571624452624794,-2.0,6.00874807234067
+351,Orco -/- alpha/beta vs. Orco +/+ gamma vm3,1.0,0.5992516255673537,0.0,0.5120736930015626
+352,Orco -/- alpha/beta vs. Orco +/+ gamma vm4,0.625,0.03223613404578514,-0.6780719051126377,3.434667280264926
+353,Orco -/- alpha/beta vs. Orco +/+ gamma vm5d,1.1,0.14558179382275277,0.13750352374993502,1.927017193464156
+354,Orco -/- alpha/beta vs. Orco +/+ gamma vm5v,2.1666666666666665,1.0,1.1154772174199359,0.0
+355,Orco -/- alpha/beta vs. Orco +/+ gamma vm7d,1.5,0.732234662584853,0.5849625007211562,0.31165423909303763
+356,Orco -/- alpha/beta vs. Orco +/+ gamma vm7v,1.0,0.44320560719862895,0.0,0.8137214920076389
+357,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle d,1.6,0.7618605947767104,0.6780719051126377,0.27199168651949734
+358,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle da1,7.5,0.061479630544791275,2.9068905956085187,2.789049369685828
+359,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle da2,0.0,0.0010815577898096345,-inf,6.829352879130852
+360,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle da3,0.3333333333333333,0.10480309164518509,-1.5849625007211563,2.255672007099169
+361,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle da4l,0.8333333333333334,0.18330084503195493,-0.2630344058337938,1.696626514043695
+362,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle da4m,0.125,0.0006716701294436503,-3.0,7.305743216765658
+363,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dc1,3.7777777777777777,0.06999201824492435,1.917537839808027,2.65937406850664
+364,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dc2,4.5,0.15271104359904453,2.169925001442312,1.8792077471785384
+365,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dc3,5.6,0.025026952378568883,2.4854268271702415,3.6878019396984008
+366,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dc4,1.2857142857142858,0.4073281807641433,0.36257007938470837,0.8981360775139084
+367,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl1,3.8,0.24907173976101962,1.925999418556223,1.390014312523536
+368,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl2d,2.5,1.0,1.3219280948873624,0.0
+369,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl2v,3.5,0.7209290150051999,1.8073549220576042,0.32721460007359726
+370,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl3,1.5,0.5741466473671749,0.5849625007211562,0.5548704320747757
+371,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl4,1.5,0.6644218709242132,0.5849625007211562,0.4088379834762239
+372,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dl5,23.0,0.0008523558516936012,4.523561956057013,7.067506452026207
+373,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm1,0.7777777777777778,0.05175066700833899,-0.36257007938470825,2.961317957869693
+374,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm2,8.0,0.2767929501956873,3.0,1.2844855245091782
+375,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm3,1.25,0.4799402113316469,0.32192809488736235,0.734093742564143
+376,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm4,0.8333333333333334,0.18330084503195493,-0.2630344058337938,1.696626514043695
+377,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm5,2.25,1.0,1.1699250014423124,0.0
+378,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dm6,2.0,1.0,1.0,0.0
+379,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dp1l,2.3333333333333335,1.0,1.222392421336448,0.0
+380,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle dp1m,7.0,0.09630798900925229,2.807354922057604,2.3402040040213787
+381,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle v,0.25,0.041039398346500805,-2.0,3.193222738400067
+382,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va1d,15.0,0.023606182172197655,3.9068905956085187,3.7462466448061194
+383,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va1v,7.0,0.09630798900925229,2.807354922057604,2.3402040040213787
+384,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va2,1.6,0.7618605947767104,0.6780719051126377,0.27199168651949734
+385,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va3,3.0,0.6173834211866742,1.584962500721156,0.4822650199039099
+386,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va4,0.8,0.15807052485650266,-0.3219280948873623,1.844713985692812
+387,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va5,2.8,0.6159331074746222,1.4854268271702418,0.4846169131071066
+388,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va6,2.4285714285714284,0.8188603743762872,1.2801079191927351,0.19984169271999222
+389,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va7l,2.5,1.0,1.3219280948873624,0.0
+390,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle va7m,1.0,0.16586177735430982,0.0,1.7966005040252386
+391,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc1,0.42857142857142855,0.0158003577086391,-1.222392421336448,4.147722699418207
+392,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc2,0.5,0.09236139539180212,-1.0,2.382046186426751
+393,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc3l,5.666666666666667,0.08392058212751001,2.5025003405291835,2.477884378222372
+394,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc3m,2.5,1.0,1.3219280948873624,0.0
+395,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc4,1.0,0.3023225375129329,0.0,1.1962608265091632
+396,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vc5,0.875,0.09209722643096768,-0.19264507794239588,2.3849104509303856
+397,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vl1,1.0,0.5992516255673537,0.0,0.5120736930015626
+398,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vl2a,3.75,0.31262731935303767,1.9068905956085185,1.1627434708497386
+399,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vl2p,6.5,0.15149248476224958,2.700439718141092,1.887219260792814
+400,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm1,1.0,0.21432559321377082,0.0,1.5402589565976517
+401,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm2,0.5,0.09236139539180212,-1.0,2.382046186426751
+402,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm3,0.6666666666666666,0.3337071929943838,-0.5849625007211563,1.0974913381847684
+403,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm4,0.5555555555555556,0.015910563809505562,-0.84799690655495,4.140771999830693
+404,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm5d,1.375,0.4433037376635228,0.45943161863729726,0.8135001058127536
+405,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm5v,3.25,0.5908381076934582,1.7004397181410922,0.5262132285542578
+406,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm7d,1.0,0.21432559321377082,0.0,1.5402589565976517
+407,Orco -/- alpha/beta vs. Orco +/+ gamma shuffle vm7v,0.5714285714285714,0.04284961258158117,-0.8073549220576042,3.150058675249205
+408,Orco -/- alpha'/beta' vs. Orco -/- gamma d,0.5,1.0,-1.0,0.0
+409,Orco -/- alpha'/beta' vs. Orco -/- gamma da1,0.3333333333333333,1.0,-1.5849625007211563,0.0
+410,Orco -/- alpha'/beta' vs. Orco -/- gamma da2,0.0,0.27118644067796516,-inf,1.3049487216659417
+411,Orco -/- alpha'/beta' vs. Orco -/- gamma da3,0.0,1.0,-inf,0.0
+412,Orco -/- alpha'/beta' vs. Orco -/- gamma da4l,0.0,1.0,-inf,0.0
+413,Orco -/- alpha'/beta' vs. Orco -/- gamma da4m,0.0,1.0,-inf,0.0
+414,Orco -/- alpha'/beta' vs. Orco -/- gamma dc1,0.16666666666666666,0.661404228104769,-2.584962500721156,0.4133900857957168
+415,Orco -/- alpha'/beta' vs. Orco -/- gamma dc2,0.25,1.0,-2.0,0.0
+416,Orco -/- alpha'/beta' vs. Orco -/- gamma dc3,0.09090909090909091,0.15090854091380154,-3.4594316186372973,1.8910813149836583
+417,Orco -/- alpha'/beta' vs. Orco -/- gamma dc4,0.0,0.5555692269832956,-inf,0.5877620566349728
+418,Orco -/- alpha'/beta' vs. Orco -/- gamma dl1,0.0,1.0,-inf,0.0
+419,Orco -/- alpha'/beta' vs. Orco -/- gamma dl2d,0.0,0.5555692269832956,-inf,0.5877620566349728
+420,Orco -/- alpha'/beta' vs. Orco -/- gamma dl2v,0.0,0.5555692269832956,-inf,0.5877620566349728
+421,Orco -/- alpha'/beta' vs. Orco -/- gamma dl3,0.5,1.0,-1.0,0.0
+422,Orco -/- alpha'/beta' vs. Orco -/- gamma dl4,0.0,1.0,-inf,0.0
+423,Orco -/- alpha'/beta' vs. Orco -/- gamma dl5,0.6666666666666666,0.6055917382319282,-0.5849625007211563,0.5015492192374102
+424,Orco -/- alpha'/beta' vs. Orco -/- gamma dm1,0.2857142857142857,1.0,-1.8073549220576042,0.0
+425,Orco -/- alpha'/beta' vs. Orco -/- gamma dm2,0.5,1.0,-1.0,0.0
+426,Orco -/- alpha'/beta' vs. Orco -/- gamma dm3,0.0,0.5555692269832956,-inf,0.5877620566349728
+427,Orco -/- alpha'/beta' vs. Orco -/- gamma dm4,0.0,1.0,-inf,0.0
+428,Orco -/- alpha'/beta' vs. Orco -/- gamma dm5,0.16666666666666666,0.661404228104769,-2.584962500721156,0.4133900857957168
+429,Orco -/- alpha'/beta' vs. Orco -/- gamma dm6,0.16666666666666666,0.661404228104769,-2.584962500721156,0.4133900857957168
+430,Orco -/- alpha'/beta' vs. Orco -/- gamma dp1l,3.0,0.05690731797348399,1.584962500721156,2.8663313349862682
+431,Orco -/- alpha'/beta' vs. Orco -/- gamma dp1m,0.4444444444444444,0.7347151870247379,-1.1699250014423124,0.3082723555136919
+432,Orco -/- alpha'/beta' vs. Orco -/- gamma v,0.0,1.0,-inf,0.0
+433,Orco -/- alpha'/beta' vs. Orco -/- gamma va1d,0.0,0.5555692269832956,-inf,0.5877620566349728
+434,Orco -/- alpha'/beta' vs. Orco -/- gamma va1v,0.0,0.30978554190587687,-inf,1.1718750212108178
+435,Orco -/- alpha'/beta' vs. Orco -/- gamma va2,0.2857142857142857,1.0,-1.8073549220576042,0.0
+436,Orco -/- alpha'/beta' vs. Orco -/- gamma va3,0.18181818181818182,0.481134115798388,-2.4594316186372973,0.7316092207177305
+437,Orco -/- alpha'/beta' vs. Orco -/- gamma va4,0.5,1.0,-1.0,0.0
+438,Orco -/- alpha'/beta' vs. Orco -/- gamma va5,0.8,0.23593066151597497,-0.3219280948873623,1.4442173242619987
+439,Orco -/- alpha'/beta' vs. Orco -/- gamma va6,0.14285714285714285,0.42699177063884197,-2.807354922057604,0.8509905384477965
+440,Orco -/- alpha'/beta' vs. Orco -/- gamma va7l,1.0,0.47223845704266293,0.0,0.7502712153711028
+441,Orco -/- alpha'/beta' vs. Orco -/- gamma va7m,0.16666666666666666,0.661404228104769,-2.584962500721156,0.4133900857957168
+442,Orco -/- alpha'/beta' vs. Orco -/- gamma vc1,1.0,0.47223845704266293,0.0,0.7502712153711028
+443,Orco -/- alpha'/beta' vs. Orco -/- gamma vc2,0.5,1.0,-1.0,0.0
+444,Orco -/- alpha'/beta' vs. Orco -/- gamma vc3l,0.0,0.17290024266960083,-inf,1.755040482768135
+445,Orco -/- alpha'/beta' vs. Orco -/- gamma vc3m,0.0,0.5661509120551211,-inf,0.5688946072455161
+446,Orco -/- alpha'/beta' vs. Orco -/- gamma vc4,0.0,0.5555692269832956,-inf,0.5877620566349728
+447,Orco -/- alpha'/beta' vs. Orco -/- gamma vc5,3.0,0.05690731797348399,1.584962500721156,2.8663313349862682
+448,Orco -/- alpha'/beta' vs. Orco -/- gamma vl1,0.0,1.0,-inf,0.0
+449,Orco -/- alpha'/beta' vs. Orco -/- gamma vl2a,0.5,1.0,-1.0,0.0
+450,Orco -/- alpha'/beta' vs. Orco -/- gamma vl2p,6.0,0.0010428977803469718,2.584962500721156,6.865752113186316
+451,Orco -/- alpha'/beta' vs. Orco -/- gamma vm1,0.0,1.0,-inf,0.0
+452,Orco -/- alpha'/beta' vs. Orco -/- gamma vm2,0.0,0.30978554190587687,-inf,1.1718750212108178
+453,Orco -/- alpha'/beta' vs. Orco -/- gamma vm3,0.14285714285714285,0.42699177063884197,-2.807354922057604,0.8509905384477965
+454,Orco -/- alpha'/beta' vs. Orco -/- gamma vm4,1.0,0.29499523208957384,0.0,1.2207960851811546
+455,Orco -/- alpha'/beta' vs. Orco -/- gamma vm5d,0.0,1.0,-inf,0.0
+456,Orco -/- alpha'/beta' vs. Orco -/- gamma vm5v,0.2,1.0,-2.321928094887362,0.0
+457,Orco -/- alpha'/beta' vs. Orco -/- gamma vm7d,0.0,1.0,-inf,0.0
+458,Orco -/- alpha'/beta' vs. Orco -/- gamma vm7v,0.0,1.0,-inf,0.0
+459,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta d,0.1111111111111111,1.0,-3.1699250014423126,0.0
+460,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta da1,0.2222222222222222,0.653883294764555,-2.1699250014423126,0.42482639182098364
+461,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta da2,0.0,0.1415929203539827,-inf,1.9547990964725566
+462,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta da3,0.0,1.0,-inf,0.0
+463,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta da4l,0.0,1.0,-inf,0.0
+464,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta da4m,0.0,1.0,-inf,0.0
+465,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dc1,0.037037037037037035,0.11365065145321161,-4.754887502163468,2.174625996599603
+466,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dc2,0.1,1.0,-3.321928094887362,0.0
+467,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dc3,0.0625,0.45885600994363235,-4.0,0.7790188219634393
+468,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dc4,0.0,0.5983344936797832,-inf,0.5136053274320601
+469,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl1,0.0,0.12414843090876726,-inf,2.0862774057806672
+470,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl2d,0.0,1.0,-inf,0.0
+471,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl2v,0.0,1.0,-inf,0.0
+472,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl3,0.09090909090909091,1.0,-3.4594316186372973,0.0
+473,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl4,0.0,1.0,-inf,0.0
+474,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dl5,0.18181818181818182,1.0,-2.4594316186372973,0.0
+475,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm1,0.6666666666666666,0.1459134135110422,-0.5849625007211563,1.9247418913458887
+476,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm2,0.16666666666666666,1.0,-2.584962500721156,0.0
+477,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm3,0.0,1.0,-inf,0.0
+478,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm4,0.0,1.0,-inf,0.0
+479,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm5,0.3333333333333333,0.4618760813451059,-1.5849625007211563,0.7724586460751457
+480,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dm6,0.3333333333333333,0.4618760813451059,-1.5849625007211563,0.7724586460751457
+481,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dp1l,0.6,0.08418333474825153,-0.7369655941662062,2.4747583019286044
+482,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta dp1m,0.23529411764705882,0.49346456095437874,-2.0874628412503395,0.7063042343297765
+483,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta v,0.0,1.0,-inf,0.0
+484,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va1d,0.0,0.35889746643889153,-inf,1.0247185400931367
+485,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va1v,0.0,0.5906101570197743,-inf,0.5265991120217288
+486,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va2,0.4,0.257980909598345,-1.3219280948873622,1.3548696906030606
+487,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va3,0.2222222222222222,0.653883294764555,-2.1699250014423126,0.42482639182098364
+488,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va4,0.5,0.3702805207229983,-1.0,0.993494396488884
+489,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va5,0.4,0.11103354823479109,-1.3219280948873622,2.1979228869845384
+490,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va6,0.09090909090909091,1.0,-3.4594316186372973,0.0
+491,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va7l,1.0,0.26422250316055496,0.0,1.3309637158028478
+492,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta va7m,0.25,0.5408667483036235,-2.0,0.6145823367519889
+493,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc1,0.14285714285714285,1.0,-2.807354922057604,0.0
+494,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc2,0.16666666666666666,1.0,-2.584962500721156,0.0
+495,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc3l,0.0,0.21301102528250185,-inf,1.5464113527226322
+496,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc3m,0.0,0.5906101570197743,-inf,0.5265991120217288
+497,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc4,0.0,0.5918815540476675,-inf,0.5244487417385123
+498,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vc5,0.5,0.11508068138826814,-1.0,2.1621218193198977
+499,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vl1,0.0,1.0,-inf,0.0
+500,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vl2a,0.14285714285714285,1.0,-2.807354922057604,0.0
+501,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vl2p,0.6666666666666666,0.007334451962008582,-0.5849625007211563,4.915172585651118
+502,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm1,0.0,1.0,-inf,0.0
+503,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm2,0.0,1.0,-inf,0.0
+504,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm3,0.2,1.0,-2.321928094887362,0.0
+505,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm4,0.4,0.257980909598345,-1.3219280948873622,1.3548696906030606
+506,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm5d,0.0,0.5906101570197743,-inf,0.5265991120217288
+507,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm5v,0.125,1.0,-3.0,0.0
+508,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm7d,0.0,0.5983344936797832,-inf,0.5136053274320601
+509,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta vm7v,0.0,1.0,-inf,0.0
+510,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle d,0.2,1.0,-2.321928094887362,0.0
+511,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle da1,2.0,0.052106468035671545,1.0,2.9544661913703667
+512,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle da2,0.125,1.0,-3.0,0.0
+513,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle da3,0.0,0.3544661505567905,-inf,1.0371424225991508
+514,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle da4l,0.0,0.5906101570197743,-inf,0.5265991120217288
+515,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle da4m,0.0,0.5918815540476675,-inf,0.5244487417385123
+516,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dc1,0.5,0.3702805207229983,-1.0,0.993494396488884
+517,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dc2,0.16666666666666666,1.0,-2.584962500721156,0.0
+518,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dc3,0.3333333333333333,0.4618760813451059,-1.5849625007211563,0.7724586460751457
+519,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dc4,0.0,0.5906101570197743,-inf,0.5265991120217288
+520,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl1,0.0,0.3544661505567905,-inf,1.0371424225991508
+521,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl2d,0.0,0.5983344936797832,-inf,0.5136053274320601
+522,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl2v,0.0,0.5983344936797832,-inf,0.5136053274320601
+523,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl3,0.2,1.0,-2.321928094887362,0.0
+524,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl4,0.0,0.35239713180857546,-inf,1.0429965239754382
+525,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dl5,0.25,0.631714662817655,-2.0,0.4593174696678206
+526,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm1,0.18181818181818182,1.0,-2.4594316186372973,0.0
+527,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm2,0.08333333333333333,0.6891052097040622,-3.584962500721156,0.3723613204907362
+528,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm3,0.0,0.35239713180857546,-inf,1.0429965239754382
+529,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm4,0.0,0.5906101570197743,-inf,0.5265991120217288
+530,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm5,0.2,1.0,-2.321928094887362,0.0
+531,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dm6,0.16666666666666666,1.0,-2.584962500721156,0.0
+532,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dp1l,1.0,0.03620415384643679,0.0,3.3185814195942234
+533,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle dp1m,0.5,0.06634093317002733,-1.0,2.7129481790860197
+534,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle v,0.0,1.0,-inf,0.0
+535,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va1d,0.0,1.0,-inf,0.0
+536,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va1v,0.0,1.0,-inf,0.0
+537,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va2,0.18181818181818182,1.0,-2.4594316186372973,0.0
+538,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va3,0.2857142857142857,0.6126796903340725,-1.8073549220576042,0.4899130076144019
+539,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va4,0.25,0.5408667483036235,-2.0,0.6145823367519889
+540,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va5,0.5714285714285714,0.04859889062036782,-0.8073549220576042,3.0241545750776258
+541,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va6,0.25,0.5408667483036235,-2.0,0.6145823367519889
+542,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va7l,0.125,1.0,-3.0,0.0
+543,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle va7m,0.1,1.0,-3.321928094887362,0.0
+544,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc1,0.08333333333333333,0.6891052097040622,-3.584962500721156,0.3723613204907362
+545,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc2,0.1111111111111111,1.0,-3.1699250014423126,0.0
+546,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc3l,0.0,1.0,-inf,0.0
+547,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc3m,0.0,0.35889746643889153,-inf,1.0247185400931367
+548,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc4,0.0,0.5983344936797832,-inf,0.5136053274320601
+549,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vc5,0.6,0.08418333474825153,-0.7369655941662062,2.4747583019286044
+550,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vl1,0.0,1.0,-inf,0.0
+551,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vl2a,0.25,0.5408667483036235,-2.0,0.6145823367519889
+552,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vl2p,0.8571428571428571,0.002996571354113285,-0.22239242133644802,5.810286525863885
+553,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm1,0.0,0.5906101570197743,-inf,0.5265991120217288
+554,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm2,0.0,1.0,-inf,0.0
+555,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm3,0.1,1.0,-3.321928094887362,0.0
+556,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm4,0.4,0.257980909598345,-1.3219280948873622,1.3548696906030606
+557,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm5d,0.0,0.5983344936797832,-inf,0.5136053274320601
+558,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm5v,0.14285714285714285,1.0,-2.807354922057604,0.0
+559,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm7d,0.0,0.5983344936797832,-inf,0.5136053274320601
+560,Orco -/- alpha'/beta' vs. Orco +/+ alpha/beta shuffle vm7v,0.0,0.35239713180857546,-inf,1.0429965239754382
+561,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' d,1.0,0.5420408163265296,0.0,0.6124139735023955
+562,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' da1,0.4,1.0,-1.3219280948873622,0.0
+563,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' da2,1.0,0.5420408163265296,0.0,0.6124139735023955
+564,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' da3,0.0,1.0,-inf,0.0
+565,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' da4l,0.0,1.0,-inf,0.0
+566,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' da4m,0.0,1.0,-inf,0.0
+567,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dc1,0.3333333333333333,1.0,-1.5849625007211563,0.0
+568,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dc2,0.5,1.0,-1.0,0.0
+569,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dc3,0.3333333333333333,1.0,-1.5849625007211563,0.0
+570,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dc4,0.0,0.5420408163265277,-inf,0.6124139735023989
+571,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl1,0.0,0.16259699069266914,-inf,1.8164805894648504
+572,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl2d,0.0,1.0,-inf,0.0
+573,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl2v,0.0,1.0,-inf,0.0
+574,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl3,0.0,0.31999999999999984,-inf,1.1394342831883653
+575,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl4,0.0,1.0,-inf,0.0
+576,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dl5,0.6666666666666666,0.6497876116218897,-0.5849625007211563,0.4311097208382474
+577,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm1,0.3333333333333333,1.0,-1.5849625007211563,0.0
+578,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm2,0.25,1.0,-2.0,0.0
+579,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm3,0.0,1.0,-inf,0.0
+580,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm4,0.0,1.0,-inf,0.0
+581,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm5,0.14285714285714285,0.40915542087583384,-2.807354922057604,0.8936601929804603
+582,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dm6,0.2,0.6497876116218925,-2.321928094887362,0.4311097208382431
+583,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dp1l,1.0,0.36961770091940593,0.0,0.9952860482634381
+584,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' dp1m,0.4,1.0,-1.3219280948873622,0.0
+585,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' v,0.0,1.0,-inf,0.0
+586,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va1d,0.0,1.0,-inf,0.0
+587,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va1v,0.0,1.0,-inf,0.0
+588,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va2,1.0,0.5842640034737305,0.0,0.5374023375598945
+589,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va3,0.4,1.0,-1.3219280948873622,0.0
+590,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va4,0.0,0.31999999999999984,-inf,1.1394342831883653
+591,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va5,4.0,0.03126734505087879,2.0,3.465181015150236
+592,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va6,0.3333333333333333,1.0,-1.5849625007211563,0.0
+593,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va7l,0.3333333333333333,1.0,-1.5849625007211563,0.0
+594,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' va7m,1.0,0.5420408163265296,0.0,0.6124139735023955
+595,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc1,0.3333333333333333,1.0,-1.5849625007211563,0.0
+596,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc2,0.0,0.31999999999999984,-inf,1.1394342831883653
+597,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc3l,0.0,1.0,-inf,0.0
+598,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc3m,0.0,1.0,-inf,0.0
+599,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc4,0.0,0.5420408163265277,-inf,0.6124139735023989
+600,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vc5,3.0,0.09057750759878411,1.584962500721156,2.401549357254014
+601,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vl1,0.0,1.0,-inf,0.0
+602,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vl2a,1.0,0.5420408163265296,0.0,0.6124139735023955
+603,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vl2p,3.0,0.009116246287685294,1.584962500721156,4.697697150885408
+604,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm1,0.0,0.5420408163265277,-inf,0.6124139735023989
+605,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm2,0.0,1.0,-inf,0.0
+606,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm3,0.0,0.31999999999999984,-inf,1.1394342831883653
+607,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm4,2.0,0.23673469387755022,1.0,1.440815199998311
+608,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm5d,0.0,1.0,-inf,0.0
+609,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm5v,0.3333333333333333,1.0,-1.5849625007211563,0.0
+610,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm7d,0.0,1.0,-inf,0.0
+611,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' vm7v,0.0,1.0,-inf,0.0
+612,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle d,1.0,0.5420408163265296,0.0,0.6124139735023955
+613,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da1,2.0,0.23673469387755022,1.0,1.440815199998311
+614,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da2,0.0,0.31999999999999984,-inf,1.1394342831883653
+615,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da3,0.0,0.29194963091619663,-inf,1.2311739884554904
+616,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da4l,0.0,0.29194963091619663,-inf,1.2311739884554904
+617,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da4m,0.0,0.08123166380335678,-inf,2.5104501595073887
+618,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc1,1.0,0.5420408163265296,0.0,0.6124139735023955
+619,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc2,0.5,1.0,-1.0,0.0
+620,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.31999999999999984,-inf,1.1394342831883653
+621,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc4,0.0,1.0,-inf,0.0
+622,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl1,0.0,0.5420408163265277,-inf,0.6124139735023989
+623,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl2d,0.0,0.5420408163265277,-inf,0.6124139735023989
+624,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl2v,0.0,1.0,-inf,0.0
+625,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl3,0.5,1.0,-1.0,0.0
+626,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl4,0.0,1.0,-inf,0.0
+627,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl5,0.6666666666666666,0.6497876116218897,-0.5849625007211563,0.4311097208382474
+628,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm1,1.0,0.5842640034737305,0.0,0.5374023375598945
+629,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm2,1.0,0.5420408163265296,0.0,0.6124139735023955
+630,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm3,0.0,1.0,-inf,0.0
+631,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm4,0.0,1.0,-inf,0.0
+632,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm5,0.5,1.0,-1.0,0.0
+633,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm6,0.5,1.0,-1.0,0.0
+634,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dp1l,1.5,0.3108723970624317,0.5849625007211562,1.1683727498331256
+635,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dp1m,1.3333333333333333,0.19026650808334436,0.41503749927884376,1.659329515527182
+636,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle v,0.0,1.0,-inf,0.0
+637,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,1.0,-inf,0.0
+638,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,1.0,-inf,0.0
+639,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va2,1.0,0.5842640034737305,0.0,0.5374023375598945
+640,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.09795918367346901,-inf,2.323204380196785
+641,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va4,0.3333333333333333,1.0,-1.5849625007211563,0.0
+642,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va5,1.0,0.24883268127723038,0.0,1.3909745711276285
+643,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.31999999999999984,-inf,1.1394342831883653
+644,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va7l,0.5,1.0,-1.0,0.0
+645,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va7m,0.2,0.6497876116218925,-2.321928094887362,0.4311097208382431
+646,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc1,0.5,1.0,-1.0,0.0
+647,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc2,0.3333333333333333,1.0,-1.5849625007211563,0.0
+648,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc3l,0.0,1.0,-inf,0.0
+649,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc3m,0.0,1.0,-inf,0.0
+650,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc4,0.0,1.0,-inf,0.0
+651,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc5,1.0,0.36961770091940593,0.0,0.9952860482634381
+652,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl1,0.0,0.5420408163265277,-inf,0.6124139735023989
+653,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,0.31999999999999984,-inf,1.1394342831883653
+654,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl2p,3.0,0.009116246287685294,1.584962500721156,4.697697150885408
+655,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm1,0.0,1.0,-inf,0.0
+656,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm2,0.0,0.5420408163265277,-inf,0.6124139735023989
+657,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm3,0.3333333333333333,1.0,-1.5849625007211563,0.0
+658,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm4,0.6666666666666666,0.6497876116218897,-0.5849625007211563,0.4311097208382474
+659,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm5d,0.0,1.0,-inf,0.0
+660,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm5v,0.25,1.0,-2.0,0.0
+661,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm7d,0.0,0.5420408163265277,-inf,0.6124139735023989
+662,Orco -/- alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm7v,0.0,0.15873712297129794,-inf,1.8405057596407772
+663,Orco -/- alpha'/beta' vs. Orco +/+ gamma d,0.14285714285714285,1.0,-2.807354922057604,0.0
+664,Orco -/- alpha'/beta' vs. Orco +/+ gamma da1,0.15384615384615385,0.7255165184498025,-2.700439718141092,0.3208714385507184
+665,Orco -/- alpha'/beta' vs. Orco +/+ gamma da2,0.0,0.18823529411764842,-inf,1.670062534250528
+666,Orco -/- alpha'/beta' vs. Orco +/+ gamma da3,0.0,1.0,-inf,0.0
+667,Orco -/- alpha'/beta' vs. Orco +/+ gamma da4l,0.0,1.0,-inf,0.0
+668,Orco -/- alpha'/beta' vs. Orco +/+ gamma da4m,0.0,1.0,-inf,0.0
+669,Orco -/- alpha'/beta' vs. Orco +/+ gamma dc1,0.1111111111111111,0.6793473060974622,-3.1699250014423126,0.3866227857315131
+670,Orco -/- alpha'/beta' vs. Orco +/+ gamma dc2,0.16666666666666666,1.0,-2.584962500721156,0.0
+671,Orco -/- alpha'/beta' vs. Orco +/+ gamma dc3,0.1,0.6812474702094791,-3.321928094887362,0.3838296464655538
+672,Orco -/- alpha'/beta' vs. Orco +/+ gamma dc4,0.0,1.0,-inf,0.0
+673,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl1,0.0,0.19649108698783327,-inf,1.6271382075421077
+674,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl2d,0.0,0.5888539057507649,-inf,0.5295771638715995
+675,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl2v,0.0,1.0,-inf,0.0
+676,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl3,0.0,0.18823529411764842,-inf,1.670062534250528
+677,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl4,0.0,1.0,-inf,0.0
+678,Orco -/- alpha'/beta' vs. Orco +/+ gamma dl5,0.6666666666666666,0.235689952998211,-0.5849625007211563,1.4452380961759361
+679,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm1,0.2857142857142857,0.6750719368454297,-1.8073549220576042,0.3929360206837768
+680,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm2,0.5,0.4695352839931154,-1.0,0.756011830882604
+681,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm3,0.0,1.0,-inf,0.0
+682,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm4,0.0,1.0,-inf,0.0
+683,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm5,0.16666666666666666,1.0,-2.584962500721156,0.0
+684,Orco -/- alpha'/beta' vs. Orco +/+ gamma dm6,0.14285714285714285,1.0,-2.807354922057604,0.0
+685,Orco -/- alpha'/beta' vs. Orco +/+ gamma dp1l,0.75,0.11959222433971164,-0.4150374992788438,2.1236674534611093
+686,Orco -/- alpha'/beta' vs. Orco +/+ gamma dp1m,0.4,0.4527908128898218,-1.3219280948873622,0.7923250418532801
+687,Orco -/- alpha'/beta' vs. Orco +/+ gamma v,0.0,1.0,-inf,0.0
+688,Orco -/- alpha'/beta' vs. Orco +/+ gamma va1d,0.0,0.34237976226541866,-inf,1.0718347419945908
+689,Orco -/- alpha'/beta' vs. Orco +/+ gamma va1v,0.0,0.5888539057507649,-inf,0.5295771638715995
+690,Orco -/- alpha'/beta' vs. Orco +/+ gamma va2,0.2222222222222222,1.0,-2.1699250014423126,0.0
+691,Orco -/- alpha'/beta' vs. Orco +/+ gamma va3,0.2222222222222222,1.0,-2.1699250014423126,0.0
+692,Orco -/- alpha'/beta' vs. Orco +/+ gamma va4,0.2,1.0,-2.321928094887362,0.0
+693,Orco -/- alpha'/beta' vs. Orco +/+ gamma va5,0.5714285714285714,0.20677649143932197,-0.8073549220576042,1.5761168205692342
+694,Orco -/- alpha'/beta' vs. Orco +/+ gamma va6,0.2,1.0,-2.321928094887362,0.0
+695,Orco -/- alpha'/beta' vs. Orco +/+ gamma va7l,0.14285714285714285,1.0,-2.807354922057604,0.0
+696,Orco -/- alpha'/beta' vs. Orco +/+ gamma va7m,0.1,0.6812474702094791,-3.321928094887362,0.3838296464655538
+697,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc1,0.0,0.18823529411764842,-inf,1.670062534250528
+698,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc2,1.0,0.34285714285714386,0.0,1.0704414117014105
+699,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc3l,0.0,0.57831169820591,-inf,0.5476422854112684
+700,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc3m,0.0,0.57831169820591,-inf,0.5476422854112684
+701,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc4,0.0,0.34237976226541866,-inf,1.0718347419945908
+702,Orco -/- alpha'/beta' vs. Orco +/+ gamma vc5,0.5,0.3606254241151968,-1.0,1.0199154656644596
+703,Orco -/- alpha'/beta' vs. Orco +/+ gamma vl1,0.0,1.0,-inf,0.0
+704,Orco -/- alpha'/beta' vs. Orco +/+ gamma vl2a,0.3333333333333333,0.5730405944334862,-1.5849625007211563,0.5567987193431584
+705,Orco -/- alpha'/beta' vs. Orco +/+ gamma vl2p,1.5,0.0024138411921030374,0.5849625007211562,6.026535944675015
+706,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm1,0.0,1.0,-inf,0.0
+707,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm2,0.0,0.34237976226541866,-inf,1.0718347419945908
+708,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm3,0.5,0.4695352839931154,-1.0,0.756011830882604
+709,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm4,0.25,1.0,-2.0,0.0
+710,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm5d,0.0,0.19649108698783327,-inf,1.6271382075421077
+711,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm5v,0.16666666666666666,1.0,-2.584962500721156,0.0
+712,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm7d,0.0,1.0,-inf,0.0
+713,Orco -/- alpha'/beta' vs. Orco +/+ gamma vm7v,0.0,1.0,-inf,0.0
+714,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle d,0.2,1.0,-2.321928094887362,0.0
+715,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle da1,1.0,0.15901935267201303,0.0,1.8387293692502442
+716,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle da2,0.16666666666666666,1.0,-2.584962500721156,0.0
+717,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle da3,0.0,1.0,-inf,0.0
+718,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle da4l,0.0,0.5888539057507649,-inf,0.5295771638715995
+719,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle da4m,0.0,0.34237976226541866,-inf,1.0718347419945908
+720,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dc1,0.1111111111111111,0.6793473060974622,-3.1699250014423126,0.3866227857315131
+721,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dc2,0.25,1.0,-2.0,0.0
+722,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dc3,0.2,1.0,-2.321928094887362,0.0
+723,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dc4,0.0,0.3381762238139906,-inf,1.0841881471356554
+724,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl1,0.0,0.57831169820591,-inf,0.5476422854112684
+725,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl2d,0.0,1.0,-inf,0.0
+726,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl2v,0.0,1.0,-inf,0.0
+727,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl3,0.16666666666666666,1.0,-2.584962500721156,0.0
+728,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl4,0.0,1.0,-inf,0.0
+729,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dl5,2.0,0.089500860585198,1.0,2.4135070382704833
+730,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm1,0.2222222222222222,1.0,-2.1699250014423126,0.0
+731,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm2,1.0,0.34285714285714386,0.0,1.0704414117014105
+732,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm3,0.0,1.0,-inf,0.0
+733,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm4,0.0,0.5888539057507649,-inf,0.5295771638715995
+734,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm5,0.25,1.0,-2.0,0.0
+735,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dm6,0.16666666666666666,1.0,-2.584962500721156,0.0
+736,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dp1l,1.0,0.07755683982542672,0.0,2.556744194339449
+737,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle dp1m,2.0,0.01047006454000286,1.0,4.559235089839525
+738,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle v,0.0,1.0,-inf,0.0
+739,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va1d,0.0,1.0,-inf,0.0
+740,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va1v,0.0,1.0,-inf,0.0
+741,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va2,0.4,0.6114062231568411,-1.3219280948873622,0.4919936910413172
+742,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va3,0.4,0.6114062231568411,-1.3219280948873622,0.4919936910413172
+743,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va4,0.2,1.0,-2.321928094887362,0.0
+744,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va5,0.8,0.05993594631691323,-0.3219280948873623,2.814478848394358
+745,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va6,0.14285714285714285,1.0,-2.807354922057604,0.0
+746,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va7l,0.5,0.4695352839931154,-1.0,0.756011830882604
+747,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle va7m,0.125,1.0,-3.0,0.0
+748,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc1,0.14285714285714285,1.0,-2.807354922057604,0.0
+749,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc2,0.25,1.0,-2.0,0.0
+750,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc3l,0.0,1.0,-inf,0.0
+751,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc3m,0.0,1.0,-inf,0.0
+752,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc4,0.0,0.57831169820591,-inf,0.5476422854112684
+753,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vc5,0.375,0.4262454463770595,-1.415037499278844,0.8527399334278446
+754,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vl1,0.0,1.0,-inf,0.0
+755,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vl2a,0.25,1.0,-2.0,0.0
+756,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vl2p,3.0,0.00040704824718929954,1.584962500721156,7.806578836084748
+757,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm1,0.0,0.5888539057507649,-inf,0.5295771638715995
+758,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm2,0.0,1.0,-inf,0.0
+759,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm3,0.3333333333333333,0.5730405944334862,-1.5849625007211563,0.5567987193431584
+760,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm4,0.2222222222222222,1.0,-2.1699250014423126,0.0
+761,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm5d,0.0,0.34237976226541866,-inf,1.0718347419945908
+762,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm5v,0.25,1.0,-2.0,0.0
+763,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm7d,0.0,0.5888539057507649,-inf,0.5295771638715995
+764,Orco -/- alpha'/beta' vs. Orco +/+ gamma shuffle vm7v,0.0,0.3381762238139906,-inf,1.0841881471356554
+765,Orco -/- gamma vs. Orco +/+ alpha/beta d,0.2222222222222222,0.5030864059958988,-2.1699250014423126,0.6869933423311427
+766,Orco -/- gamma vs. Orco +/+ alpha/beta da1,0.6666666666666666,0.3932261158626353,-0.5849625007211563,0.9333704741389783
+767,Orco -/- gamma vs. Orco +/+ alpha/beta da2,0.0,1.0,-inf,0.0
+768,Orco -/- gamma vs. Orco +/+ alpha/beta da3,0.0,1.0,-inf,0.0
+769,Orco -/- gamma vs. Orco +/+ alpha/beta da4l,0.5,1.0,-1.0,0.0
+770,Orco -/- gamma vs. Orco +/+ alpha/beta da4m,0.0,1.0,-inf,0.0
+771,Orco -/- gamma vs. Orco +/+ alpha/beta dc1,0.2222222222222222,0.0867015212382875,-2.1699250014423126,2.4452838493485607
+772,Orco -/- gamma vs. Orco +/+ alpha/beta dc2,0.4,1.0,-1.3219280948873622,0.0
+773,Orco -/- gamma vs. Orco +/+ alpha/beta dc3,0.6875,0.24734110037358728,-0.5405683813627028,1.3969869218482227
+774,Orco -/- gamma vs. Orco +/+ alpha/beta dc4,0.375,1.0,-1.415037499278844,0.0
+775,Orco -/- gamma vs. Orco +/+ alpha/beta dl1,0.11764705882352941,0.0586186484196696,-3.0874628412503395,2.836702400606796
+776,Orco -/- gamma vs. Orco +/+ alpha/beta dl2d,0.6,0.7011389116118796,-0.7369655941662062,0.35504924950790184
+777,Orco -/- gamma vs. Orco +/+ alpha/beta dl2v,1.0,0.371125252349397,0.0,0.9912156659404868
+778,Orco -/- gamma vs. Orco +/+ alpha/beta dl3,0.18181818181818182,0.344070657052792,-2.4594316186372973,1.0669082442908249
+779,Orco -/- gamma vs. Orco +/+ alpha/beta dl4,0.25,1.0,-2.0,0.0
+780,Orco -/- gamma vs. Orco +/+ alpha/beta dl5,0.2727272727272727,0.5502415989575064,-1.8744691179161412,0.5973978263749782
+781,Orco -/- gamma vs. Orco +/+ alpha/beta dm1,2.3333333333333335,0.009557770247712963,1.222392421336448,4.650400816809895
+782,Orco -/- gamma vs. Orco +/+ alpha/beta dm2,0.3333333333333333,1.0,-1.5849625007211563,0.0
+783,Orco -/- gamma vs. Orco +/+ alpha/beta dm3,1.5,0.16882226292817096,0.5849625007211562,1.7789088161320215
+784,Orco -/- gamma vs. Orco +/+ alpha/beta dm4,0.0,1.0,-inf,0.0
+785,Orco -/- gamma vs. Orco +/+ alpha/beta dm5,2.0,0.024286546927586777,1.0,3.7178327063213414
+786,Orco -/- gamma vs. Orco +/+ alpha/beta dm6,2.0,0.024286546927586777,1.0,3.7178327063213414
+787,Orco -/- gamma vs. Orco +/+ alpha/beta dp1l,0.2,0.6665058156398298,-2.321928094887362,0.4057064137602869
+788,Orco -/- gamma vs. Orco +/+ alpha/beta dp1m,0.5294117647058824,0.6429673819377043,-0.9175378398080271,0.44166128396636395
+789,Orco -/- gamma vs. Orco +/+ alpha/beta v,0.0,1.0,-inf,0.0
+790,Orco -/- gamma vs. Orco +/+ alpha/beta va1d,0.2727272727272727,0.5502415989575064,-1.8744691179161412,0.5973978263749782
+791,Orco -/- gamma vs. Orco +/+ alpha/beta va1v,0.7142857142857143,0.5132829913721799,-0.4854268271702417,0.6669279458071203
+792,Orco -/- gamma vs. Orco +/+ alpha/beta va2,1.4,0.04644091589405034,0.48542682717024166,3.069574400252817
+793,Orco -/- gamma vs. Orco +/+ alpha/beta va3,1.2222222222222223,0.017252035542106907,0.289506617194985,4.059825140025529
+794,Orco -/- gamma vs. Orco +/+ alpha/beta va4,1.0,0.5864266649880021,0.0,0.5337076570901854
+795,Orco -/- gamma vs. Orco +/+ alpha/beta va5,0.5,0.7755078549013381,-1.0,0.25423716759499815
+796,Orco -/- gamma vs. Orco +/+ alpha/beta va6,0.6363636363636364,0.4230952894395629,-0.6520766965796931,0.8601578547627559
+797,Orco -/- gamma vs. Orco +/+ alpha/beta va7l,1.0,0.521479958890031,0.0,0.6510844350208234
+798,Orco -/- gamma vs. Orco +/+ alpha/beta va7m,1.5,0.06830296264260224,0.5849625007211562,2.6838021364412787
+799,Orco -/- gamma vs. Orco +/+ alpha/beta vc1,0.14285714285714285,0.43476272413550865,-2.807354922057604,0.8329548584692877
+800,Orco -/- gamma vs. Orco +/+ alpha/beta vc2,0.3333333333333333,1.0,-1.5849625007211563,0.0
+801,Orco -/- gamma vs. Orco +/+ alpha/beta vc3l,0.5,0.8004094362415879,-1.0,0.222631886934772
+802,Orco -/- gamma vs. Orco +/+ alpha/beta vc3m,0.5714285714285714,0.7369280972919492,-0.8073549220576042,0.30526495289285643
+803,Orco -/- gamma vs. Orco +/+ alpha/beta vc4,0.5,1.0,-1.0,0.0
+804,Orco -/- gamma vs. Orco +/+ alpha/beta vc5,0.16666666666666666,0.4378714942227666,-2.584962500721156,0.8258298038390627
+805,Orco -/- gamma vs. Orco +/+ alpha/beta vl1,0.0,1.0,-inf,0.0
+806,Orco -/- gamma vs. Orco +/+ alpha/beta vl2a,0.2857142857142857,0.7215158040019796,-1.8073549220576042,0.32640099663946065
+807,Orco -/- gamma vs. Orco +/+ alpha/beta vl2p,0.1111111111111111,0.17542793763053663,-3.1699250014423126,1.7405269321921362
+808,Orco -/- gamma vs. Orco +/+ alpha/beta vm1,0.0,0.5526877876580762,-inf,0.5929620161748475
+809,Orco -/- gamma vs. Orco +/+ alpha/beta vm2,2.5,0.028427812711131026,1.3219280948873624,3.5603872922222837
+810,Orco -/- gamma vs. Orco +/+ alpha/beta vm3,1.4,0.04644091589405034,0.48542682717024166,3.069574400252817
+811,Orco -/- gamma vs. Orco +/+ alpha/beta vm4,0.4,1.0,-1.3219280948873622,0.0
+812,Orco -/- gamma vs. Orco +/+ alpha/beta vm5d,0.2857142857142857,0.7215158040019796,-1.8073549220576042,0.32640099663946065
+813,Orco -/- gamma vs. Orco +/+ alpha/beta vm5v,0.625,0.5379332365193397,-0.6780719051126377,0.6200208222098195
+814,Orco -/- gamma vs. Orco +/+ alpha/beta vm7d,0.25,0.7236416375592094,-2.0,0.32345898488430225
+815,Orco -/- gamma vs. Orco +/+ alpha/beta vm7v,0.0,0.5526877876580762,-inf,0.5929620161748475
+816,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle d,0.4,1.0,-1.3219280948873622,0.0
+817,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle da1,6.0,0.0034721849894256054,2.584962500721156,5.662971203238864
+818,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle da2,0.0,0.10654047492330737,-inf,2.2392303198036947
+819,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle da3,0.0,0.05692229512158588,-inf,2.8660681846902936
+820,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle da4l,0.14285714285714285,0.43476272413550865,-2.807354922057604,0.8329548584692877
+821,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle da4m,0.0,0.17717827988461898,-inf,1.7305988223385305
+822,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dc1,3.0,0.010602364338484176,1.584962500721156,4.546678251935853
+823,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dc2,0.6666666666666666,0.4961515221353952,-0.5849625007211563,0.7008739107330216
+824,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dc3,3.6666666666666665,0.00014180852313248844,1.874469117916141,8.861032838955458
+825,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dc4,0.42857142857142855,1.0,-1.222392421336448,0.0
+826,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl1,0.2222222222222222,0.5030864059958988,-2.1699250014423126,0.6869933423311427
+827,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl2d,0.375,1.0,-1.415037499278844,0.0
+828,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl2v,0.375,1.0,-1.415037499278844,0.0
+829,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl3,0.4,1.0,-1.3219280948873622,0.0
+830,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl4,0.1,0.1724285510473958,-3.321928094887362,1.757772325140613
+831,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dl5,0.375,1.0,-1.415037499278844,0.0
+832,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm1,0.6363636363636364,0.4230952894395629,-0.6520766965796931,0.8601578547627559
+833,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm2,0.16666666666666666,0.22632056941556788,-2.584962500721156,1.4858028360165225
+834,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm3,0.3,0.7542198066592265,-1.7369655941662063,0.2820714326898988
+835,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm4,0.0,0.0999575499513122,-inf,2.3030096836067617
+836,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm5,1.2,0.09266164659484097,0.2630344058337938,2.378800628864011
+837,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dm6,1.0,0.18778809038493582,0.0,1.6724411306995244
+838,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dp1l,0.3333333333333333,1.0,-1.5849625007211563,0.0
+839,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle dp1m,1.125,0.04840207057790592,0.16992500144231237,3.0282126856393656
+840,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle v,0.0,0.32338185999874686,-inf,1.1289214249437143
+841,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va1d,1.0,0.371125252349397,0.0,0.9912156659404868
+842,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va1v,1.0,0.283568166411714,0.0,1.2603027388201136
+843,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va2,0.6363636363636364,0.4230952894395629,-0.6520766965796931,0.8601578547627559
+844,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va3,1.5714285714285714,0.0050954497167281275,0.6520766965796931,5.2794073499165
+845,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va4,0.5,1.0,-1.0,0.0
+846,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va5,0.7142857142857143,0.5132829913721799,-0.4854268271702417,0.6669279458071203
+847,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va6,1.75,0.03470957527364539,0.8073549220576041,3.3607396856095426
+848,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va7l,0.125,0.27499607510588997,-3.0,1.2909984537596348
+849,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle va7m,0.6,0.5699329145629911,-0.7369655941662062,0.5622366188291323
+850,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc1,0.08333333333333333,0.06539057701651424,-3.584962500721156,2.727377113216134
+851,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc2,0.2222222222222222,0.5030864059958988,-2.1699250014423126,0.6869933423311427
+852,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc3l,1.4,0.04644091589405034,0.48542682717024166,3.069574400252817
+853,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc3m,0.36363636363636365,1.0,-1.4594316186372973,0.0
+854,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc4,0.375,1.0,-1.415037499278844,0.0
+855,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vc5,0.2,0.6665058156398298,-2.321928094887362,0.4057064137602869
+856,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vl1,0.0,0.32338185999874686,-inf,1.1289214249437143
+857,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vl2a,0.5,1.0,-1.0,0.0
+858,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vl2p,0.14285714285714285,0.43476272413550865,-2.807354922057604,0.8329548584692877
+859,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm1,0.0,0.0999575499513122,-inf,2.3030096836067617
+860,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm2,2.5,0.028427812711131026,1.3219280948873624,3.5603872922222837
+861,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm3,0.7,0.4005735149960261,-0.5145731728297583,0.9148579712759272
+862,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm4,0.4,1.0,-1.3219280948873622,0.0
+863,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm5d,0.25,0.7236416375592094,-2.0,0.32345898488430225
+864,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm5v,0.7142857142857143,0.5132829913721799,-0.4854268271702417,0.6669279458071203
+865,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm7d,0.25,0.7236416375592094,-2.0,0.32345898488430225
+866,Orco -/- gamma vs. Orco +/+ alpha/beta shuffle vm7v,0.0,0.03148102094291821,-inf,3.458370424481117
+867,Orco -/- gamma vs. Orco +/+ alpha'/beta' d,2.0,1.0,1.0,0.0
+868,Orco -/- gamma vs. Orco +/+ alpha'/beta' da1,1.2,1.0,0.2630344058337938,0.0
+869,Orco -/- gamma vs. Orco +/+ alpha'/beta' da2,0.0,0.4415584415584423,-inf,0.8174448972375208
+870,Orco -/- gamma vs. Orco +/+ alpha'/beta' da3,0.0,1.0,-inf,0.0
+871,Orco -/- gamma vs. Orco +/+ alpha'/beta' da4l,0.0,1.0,-inf,0.0
+872,Orco -/- gamma vs. Orco +/+ alpha'/beta' da4m,0.0,0.4415584415584423,-inf,0.8174448972375208
+873,Orco -/- gamma vs. Orco +/+ alpha'/beta' dc1,2.0,0.7232783499513133,1.0,0.3239611378971374
+874,Orco -/- gamma vs. Orco +/+ alpha'/beta' dc2,2.0,0.6885260170047499,1.0,0.3732021735756677
+875,Orco -/- gamma vs. Orco +/+ alpha'/beta' dc3,3.6666666666666665,0.07690234140844501,1.874469117916141,2.5652189554900344
+876,Orco -/- gamma vs. Orco +/+ alpha'/beta' dc4,1.0,1.0,0.0,0.0
+877,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl1,0.4,0.23036314237000746,-1.3219280948873622,1.4680983353097405
+878,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl2d,0.0,0.25051264524948713,-inf,1.384245879693419
+879,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl2v,1.5,1.0,0.5849625007211562,0.0
+880,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl3,0.0,0.5003417634996552,-inf,0.6924638870588188
+881,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl4,0.0,1.0,-inf,0.0
+882,Orco -/- gamma vs. Orco +/+ alpha'/beta' dl5,1.0,1.0,0.0,0.0
+883,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm1,1.1666666666666667,1.0,0.22239242133644802,0.0
+884,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm2,0.5,0.3965191579466998,-1.0,0.925030921428341
+885,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm3,1.5,1.0,0.5849625007211562,0.0
+886,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm4,0.0,0.1917293233082699,-inf,1.6516706760573774
+887,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm5,0.8571428571428571,0.544547099832067,-0.22239242133644802,0.6078008392811302
+888,Orco -/- gamma vs. Orco +/+ alpha'/beta' dm6,1.2,1.0,0.2630344058337938,0.0
+889,Orco -/- gamma vs. Orco +/+ alpha'/beta' dp1l,0.3333333333333333,0.31560325876115447,-1.5849625007211563,1.1532693644580407
+890,Orco -/- gamma vs. Orco +/+ alpha'/beta' dp1m,0.9,0.43374210429494975,-0.15200309344504995,0.8353051512413339
+891,Orco -/- gamma vs. Orco +/+ alpha'/beta' v,0.0,1.0,-inf,0.0
+892,Orco -/- gamma vs. Orco +/+ alpha'/beta' va1d,0.0,0.25051264524948713,-inf,1.384245879693419
+893,Orco -/- gamma vs. Orco +/+ alpha'/beta' va1v,0.0,0.06280319964530487,-inf,2.767749257039878
+894,Orco -/- gamma vs. Orco +/+ alpha'/beta' va2,3.5,0.2842774196011144,1.8073549220576042,1.2578046880270897
+895,Orco -/- gamma vs. Orco +/+ alpha'/beta' va3,2.2,0.2732419490347852,1.1375035237499351,1.2973976160931848
+896,Orco -/- gamma vs. Orco +/+ alpha'/beta' va4,0.0,0.5003417634996552,-inf,0.6924638870588188
+897,Orco -/- gamma vs. Orco +/+ alpha'/beta' va5,5.0,0.21989061880914834,2.321928094887362,1.5146250434994735
+898,Orco -/- gamma vs. Orco +/+ alpha'/beta' va6,2.3333333333333335,0.498102889617572,1.222392421336448,0.6969486176397187
+899,Orco -/- gamma vs. Orco +/+ alpha'/beta' va7l,0.3333333333333333,0.31560325876115447,-1.5849625007211563,1.1532693644580407
+900,Orco -/- gamma vs. Orco +/+ alpha'/beta' va7m,6.0,0.12587865442948382,2.584962500721156,2.0724368961544393
+901,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc1,0.3333333333333333,0.31560325876115447,-1.5849625007211563,1.1532693644580407
+902,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc2,0.0,0.5003417634996552,-inf,0.6924638870588188
+903,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc3l,3.5,0.2842774196011144,1.8073549220576042,1.2578046880270897
+904,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc3m,2.0,0.6885260170047499,1.0,0.3732021735756677
+905,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc4,1.0,1.0,0.0,0.0
+906,Orco -/- gamma vs. Orco +/+ alpha'/beta' vc5,1.0,1.0,0.0,0.0
+907,Orco -/- gamma vs. Orco +/+ alpha'/beta' vl1,0.0,0.4415584415584423,-inf,0.8174448972375208
+908,Orco -/- gamma vs. Orco +/+ alpha'/beta' vl2a,2.0,1.0,1.0,0.0
+909,Orco -/- gamma vs. Orco +/+ alpha'/beta' vl2p,0.5,0.5802870813397141,-1.0,0.5442323300707474
+910,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm1,0.0,0.08180451127819566,-inf,2.503422886793955
+911,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm2,2.5,0.45492052975831015,1.3219280948873624,0.7876325351578441
+912,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm3,0.0,0.01563689270971179,-inf,4.158122239453263
+913,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm4,2.0,1.0,1.0,0.0
+914,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm5d,1.0,1.0,0.0,0.0
+915,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm5v,1.6666666666666667,1.0,0.7369655941662062,0.0
+916,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm7d,1.0,1.0,0.0,0.0
+917,Orco -/- gamma vs. Orco +/+ alpha'/beta' vm7v,0.0,0.1917293233082699,-inf,1.6516706760573774
+918,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle d,2.0,1.0,1.0,0.0
+919,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle da1,6.0,0.12587865442948382,2.584962500721156,2.0724368961544393
+920,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle da2,0.0,1.0,-inf,0.0
+921,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle da3,0.0,0.03426945742735246,-inf,3.373500775512972
+922,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle da4l,0.25,0.1637337934381916,-2.0,1.8095133807345871
+923,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle da4m,0.0,0.002237024843318702,-inf,6.102608490894908
+924,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dc1,6.0,0.12587865442948382,2.584962500721156,2.0724368961544393
+925,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dc2,2.0,0.6885260170047499,1.0,0.3732021735756677
+926,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.0017475544656239232,-inf,6.349537916603
+927,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dc4,1.5,1.0,0.5849625007211562,0.0
+928,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl1,0.6666666666666666,0.649591769130341,-0.5849625007211563,0.43141116088867865
+929,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl2d,1.0,1.0,0.0,0.0
+930,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl2v,3.0,0.6256614509246107,1.584962500721156,0.46894586739372635
+931,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl3,1.0,1.0,0.0,0.0
+932,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl4,1.0,1.0,0.0,0.0
+933,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dl5,1.0,1.0,0.0,0.0
+934,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm1,3.5,0.2842774196011144,1.8073549220576042,1.2578046880270897
+935,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm2,2.0,1.0,1.0,0.0
+936,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm3,1.5,1.0,0.5849625007211562,0.0
+937,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm4,0.0,0.1917293233082699,-inf,1.6516706760573774
+938,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm5,3.0,0.29106766687277863,1.584962500721156,1.234199506633207
+939,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dm6,3.0,0.29106766687277863,1.584962500721156,1.234199506633207
+940,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dp1l,0.5,0.5802870813397141,-1.0,0.5442323300707474
+941,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle dp1m,3.0,0.20899071792490953,1.584962500721156,1.5654654398460992
+942,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle v,0.0,0.1917293233082699,-inf,1.6516706760573774
+943,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,0.25051264524948713,-inf,1.384245879693419
+944,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,0.06280319964530487,-inf,2.767749257039878
+945,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va2,3.5,0.2842774196011144,1.8073549220576042,1.2578046880270897
+946,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.0017475544656239232,-inf,6.349537916603
+947,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va4,0.6666666666666666,0.649591769130341,-0.5849625007211563,0.43141116088867865
+948,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va5,1.25,1.0,0.32192809488736235,0.0
+949,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.01563689270971179,-inf,4.158122239453263
+950,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va7l,0.5,0.5802870813397141,-1.0,0.5442323300707474
+951,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle va7m,1.2,1.0,0.2630344058337938,0.0
+952,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc1,0.5,0.5802870813397141,-1.0,0.5442323300707474
+953,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc2,0.6666666666666666,0.649591769130341,-0.5849625007211563,0.43141116088867865
+954,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc3l,7.0,0.0708156502817185,2.807354922057604,2.6476752535334174
+955,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc3m,4.0,0.3761024182076819,2.0,0.9778937838331322
+956,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc4,1.5,1.0,0.5849625007211562,0.0
+957,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vc5,0.3333333333333333,0.31560325876115447,-1.5849625007211563,1.1532693644580407
+958,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vl1,0.0,0.08180451127819566,-inf,2.503422886793955
+959,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,0.5003417634996552,-inf,0.6924638870588188
+960,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vl2p,0.5,0.5802870813397141,-1.0,0.5442323300707474
+961,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm1,0.0,0.4415584415584423,-inf,0.8174448972375208
+962,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm2,1.6666666666666667,1.0,0.7369655941662062,0.0
+963,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm3,2.3333333333333335,0.498102889617572,1.222392421336448,0.6969486176397187
+964,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm4,0.6666666666666666,0.649591769130341,-0.5849625007211563,0.43141116088867865
+965,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm5d,1.0,1.0,0.0,0.0
+966,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm5v,1.25,1.0,0.32192809488736235,0.0
+967,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm7d,0.6666666666666666,0.649591769130341,-0.5849625007211563,0.43141116088867865
+968,Orco -/- gamma vs. Orco +/+ alpha'/beta' shuffle vm7v,0.0,0.005672455852700997,-inf,5.172133124028796
+969,Orco -/- gamma vs. Orco +/+ gamma d,0.2857142857142857,0.47832929287064385,-1.8073549220576042,0.7374558864525275
+970,Orco -/- gamma vs. Orco +/+ gamma da1,0.46153846153846156,0.6090858551004891,-1.1154772174199359,0.4957960440320874
+971,Orco -/- gamma vs. Orco +/+ gamma da2,0.0,1.0,-inf,0.0
+972,Orco -/- gamma vs. Orco +/+ gamma da3,0.0,1.0,-inf,0.0
+973,Orco -/- gamma vs. Orco +/+ gamma da4l,0.5,1.0,-1.0,0.0
+974,Orco -/- gamma vs. Orco +/+ gamma da4m,0.0,0.5226833976834017,-inf,0.6487793563783755
+975,Orco -/- gamma vs. Orco +/+ gamma dc1,0.6666666666666666,1.0,-0.5849625007211563,0.0
+976,Orco -/- gamma vs. Orco +/+ gamma dc2,0.6666666666666666,1.0,-0.5849625007211563,0.0
+977,Orco -/- gamma vs. Orco +/+ gamma dc3,1.1,0.21250709520315664,0.13750352374993502,1.548779901983747
+978,Orco -/- gamma vs. Orco +/+ gamma dc4,1.5,0.37023490635876466,0.5849625007211562,0.9936175927454997
+979,Orco -/- gamma vs. Orco +/+ gamma dl1,0.2,0.12545089838642368,-2.321928094887362,2.075840844884677
+980,Orco -/- gamma vs. Orco +/+ gamma dl2d,0.5,1.0,-1.0,0.0
+981,Orco -/- gamma vs. Orco +/+ gamma dl2v,0.75,1.0,-0.4150374992788438,0.0
+982,Orco -/- gamma vs. Orco +/+ gamma dl3,0.0,0.14527027027027178,-inf,1.9291593386304875
+983,Orco -/- gamma vs. Orco +/+ gamma dl4,0.0,0.38392857142857173,-inf,0.9572987556015313
+984,Orco -/- gamma vs. Orco +/+ gamma dl5,1.0,0.6736992823227066,0.0,0.39497143629335524
+985,Orco -/- gamma vs. Orco +/+ gamma dm1,1.0,0.3861195144310709,0.0,0.9516083345621558
+986,Orco -/- gamma vs. Orco +/+ gamma dm2,1.0,0.637255306062654,0.0,0.4505849092597472
+987,Orco -/- gamma vs. Orco +/+ gamma dm3,1.5,0.37023490635876466,0.5849625007211562,0.9936175927454997
+988,Orco -/- gamma vs. Orco +/+ gamma dm4,0.0,0.28402509652509894,-inf,1.2586926766790338
+989,Orco -/- gamma vs. Orco +/+ gamma dm5,1.0,0.531248356455174,0.0,0.6325256524797332
+990,Orco -/- gamma vs. Orco +/+ gamma dm6,0.8571428571428571,0.5572599696296572,-0.22239242133644802,0.5847234161096517
+991,Orco -/- gamma vs. Orco +/+ gamma dp1l,0.25,0.6473315475609125,-2.0,0.43489667746254607
+992,Orco -/- gamma vs. Orco +/+ gamma dp1m,0.9,0.44115937861428733,-0.15200309344504995,0.8183490660720499
+993,Orco -/- gamma vs. Orco +/+ gamma v,0.0,1.0,-inf,0.0
+994,Orco -/- gamma vs. Orco +/+ gamma va1d,0.375,0.5263916941962247,-1.415037499278844,0.6417096775981243
+995,Orco -/- gamma vs. Orco +/+ gamma va1v,0.8333333333333334,0.7462812647479781,-0.2630344058337938,0.29265271934324427
+996,Orco -/- gamma vs. Orco +/+ gamma va2,0.7777777777777778,0.7821641961541915,-0.36257007938470825,0.24569059097069887
+997,Orco -/- gamma vs. Orco +/+ gamma va3,1.2222222222222223,0.12757894821731763,0.289506617194985,2.05901990430548
+998,Orco -/- gamma vs. Orco +/+ gamma va4,0.4,0.7055084717818159,-1.3219280948873622,0.3488364995660212
+999,Orco -/- gamma vs. Orco +/+ gamma va5,0.7142857142857143,1.0,-0.4854268271702417,0.0
+1000,Orco -/- gamma vs. Orco +/+ gamma va6,1.4,0.20744296067313717,0.48542682717024166,1.5728988654223348
+1001,Orco -/- gamma vs. Orco +/+ gamma va7l,0.14285714285714285,0.1502126840257903,-2.807354922057604,1.89570309564243
+1002,Orco -/- gamma vs. Orco +/+ gamma va7m,0.6,1.0,-0.7369655941662062,0.0
+1003,Orco -/- gamma vs. Orco +/+ gamma vc1,0.0,0.38392857142857173,-inf,0.9572987556015313
+1004,Orco -/- gamma vs. Orco +/+ gamma vc2,2.0,0.5573973323973346,1.0,0.5844769497416964
+1005,Orco -/- gamma vs. Orco +/+ gamma vc3l,1.4,0.20744296067313717,0.48542682717024166,1.5728988654223348
+1006,Orco -/- gamma vs. Orco +/+ gamma vc3m,0.8,0.7307506027719447,-0.3219280948873623,0.3136830501235958
+1007,Orco -/- gamma vs. Orco +/+ gamma vc4,0.375,0.5263916941962247,-1.415037499278844,0.6417096775981243
+1008,Orco -/- gamma vs. Orco +/+ gamma vc5,0.16666666666666666,0.2469026698928884,-2.584962500721156,1.398761069028521
+1009,Orco -/- gamma vs. Orco +/+ gamma vl1,0.0,0.5226833976834017,-inf,0.6487793563783755
+1010,Orco -/- gamma vs. Orco +/+ gamma vl2a,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1011,Orco -/- gamma vs. Orco +/+ gamma vl2p,0.25,0.6473315475609125,-2.0,0.43489667746254607
+1012,Orco -/- gamma vs. Orco +/+ gamma vm1,0.0,0.5226833976834017,-inf,0.6487793563783755
+1013,Orco -/- gamma vs. Orco +/+ gamma vm2,0.625,1.0,-0.6780719051126377,0.0
+1014,Orco -/- gamma vs. Orco +/+ gamma vm3,3.5,0.02599648879684624,1.8073549220576042,3.649793796355369
+1015,Orco -/- gamma vs. Orco +/+ gamma vm4,0.25,0.3121723529550292,-2.0,1.1641998303793217
+1016,Orco -/- gamma vs. Orco +/+ gamma vm5d,0.2,0.12545089838642368,-2.321928094887362,2.075840844884677
+1017,Orco -/- gamma vs. Orco +/+ gamma vm5v,0.8333333333333334,0.7462812647479781,-0.2630344058337938,0.29265271934324427
+1018,Orco -/- gamma vs. Orco +/+ gamma vm7d,0.5,1.0,-1.0,0.0
+1019,Orco -/- gamma vs. Orco +/+ gamma vm7v,0.0,0.29616701176334603,-inf,1.2168317548451468
+1020,Orco -/- gamma vs. Orco +/+ gamma shuffle d,0.4,0.7055084717818159,-1.3219280948873622,0.3488364995660212
+1021,Orco -/- gamma vs. Orco +/+ gamma shuffle da1,3.0,0.05264495820098994,1.584962500721156,2.944184805652456
+1022,Orco -/- gamma vs. Orco +/+ gamma shuffle da2,0.0,0.08041822253431617,-inf,2.520514480041325
+1023,Orco -/- gamma vs. Orco +/+ gamma shuffle da3,0.0,0.28402509652509894,-inf,1.2586926766790338
+1024,Orco -/- gamma vs. Orco +/+ gamma shuffle da4l,0.16666666666666666,0.2469026698928884,-2.584962500721156,1.398761069028521
+1025,Orco -/- gamma vs. Orco +/+ gamma shuffle da4m,0.0,0.022565988904142652,-inf,3.7913114219728787
+1026,Orco -/- gamma vs. Orco +/+ gamma shuffle dc1,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1027,Orco -/- gamma vs. Orco +/+ gamma shuffle dc2,1.0,0.4806551260784022,0.0,0.7326052596392125
+1028,Orco -/- gamma vs. Orco +/+ gamma shuffle dc3,2.2,0.011170745821231535,1.1375035237499351,4.494456898100366
+1029,Orco -/- gamma vs. Orco +/+ gamma shuffle dc4,0.42857142857142855,0.7385928182251953,-1.222392421336448,0.3030085001078401
+1030,Orco -/- gamma vs. Orco +/+ gamma shuffle dl1,0.4,0.7055084717818159,-1.3219280948873622,0.3488364995660212
+1031,Orco -/- gamma vs. Orco +/+ gamma shuffle dl2d,1.5,0.37023490635876466,0.5849625007211562,0.9936175927454997
+1032,Orco -/- gamma vs. Orco +/+ gamma shuffle dl2v,1.5,0.37023490635876466,0.5849625007211562,0.9936175927454997
+1033,Orco -/- gamma vs. Orco +/+ gamma shuffle dl3,0.3333333333333333,0.7083131530029357,-1.5849625007211563,0.3448689765757822
+1034,Orco -/- gamma vs. Orco +/+ gamma shuffle dl4,0.5,1.0,-1.0,0.0
+1035,Orco -/- gamma vs. Orco +/+ gamma shuffle dl5,3.0,0.15697428036877847,1.584962500721156,1.8516733063608208
+1036,Orco -/- gamma vs. Orco +/+ gamma shuffle dm1,0.7777777777777778,0.7821641961541915,-0.36257007938470825,0.24569059097069887
+1037,Orco -/- gamma vs. Orco +/+ gamma shuffle dm2,2.0,0.5573973323973346,1.0,0.5844769497416964
+1038,Orco -/- gamma vs. Orco +/+ gamma shuffle dm3,0.75,1.0,-0.4150374992788438,0.0
+1039,Orco -/- gamma vs. Orco +/+ gamma shuffle dm4,0.0,0.08041822253431617,-inf,2.520514480041325
+1040,Orco -/- gamma vs. Orco +/+ gamma shuffle dm5,1.5,0.17875905347605528,0.5849625007211562,1.7217164498735356
+1041,Orco -/- gamma vs. Orco +/+ gamma shuffle dm6,1.0,0.531248356455174,0.0,0.6325256524797332
+1042,Orco -/- gamma vs. Orco +/+ gamma shuffle dp1l,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1043,Orco -/- gamma vs. Orco +/+ gamma shuffle dp1m,4.5,0.0027840371268700787,2.169925001442312,5.883853200797851
+1044,Orco -/- gamma vs. Orco +/+ gamma shuffle v,0.0,0.29616701176334603,-inf,1.2168317548451468
+1045,Orco -/- gamma vs. Orco +/+ gamma shuffle va1d,3.0,0.15697428036877847,1.584962500721156,1.8516733063608208
+1046,Orco -/- gamma vs. Orco +/+ gamma shuffle va1v,2.5,0.10461640306505332,1.3219280948873624,2.257454922580306
+1047,Orco -/- gamma vs. Orco +/+ gamma shuffle va2,1.4,0.20744296067313717,0.48542682717024166,1.5728988654223348
+1048,Orco -/- gamma vs. Orco +/+ gamma shuffle va3,2.2,0.011170745821231535,1.1375035237499351,4.494456898100366
+1049,Orco -/- gamma vs. Orco +/+ gamma shuffle va4,0.4,0.7055084717818159,-1.3219280948873622,0.3488364995660212
+1050,Orco -/- gamma vs. Orco +/+ gamma shuffle va5,1.0,0.5033263546278622,0.0,0.6865165029151535
+1051,Orco -/- gamma vs. Orco +/+ gamma shuffle va6,1.0,0.3861195144310709,0.0,0.9516083345621558
+1052,Orco -/- gamma vs. Orco +/+ gamma shuffle va7l,0.5,1.0,-1.0,0.0
+1053,Orco -/- gamma vs. Orco +/+ gamma shuffle va7m,0.75,0.7729443912984308,-0.4150374992788438,0.2575481717942973
+1054,Orco -/- gamma vs. Orco +/+ gamma shuffle vc1,0.14285714285714285,0.1502126840257903,-2.807354922057604,1.89570309564243
+1055,Orco -/- gamma vs. Orco +/+ gamma shuffle vc2,0.5,1.0,-1.0,0.0
+1056,Orco -/- gamma vs. Orco +/+ gamma shuffle vc3l,2.3333333333333335,0.04257342608932005,1.222392421336448,3.156525021071619
+1057,Orco -/- gamma vs. Orco +/+ gamma shuffle vc3m,1.0,0.4806551260784022,0.0,0.7326052596392125
+1058,Orco -/- gamma vs. Orco +/+ gamma shuffle vc4,0.6,1.0,-0.7369655941662062,0.0
+1059,Orco -/- gamma vs. Orco +/+ gamma shuffle vc5,0.125,0.14956592826748372,-3.0,1.9000179916039386
+1060,Orco -/- gamma vs. Orco +/+ gamma shuffle vl1,0.0,0.5226833976834017,-inf,0.6487793563783755
+1061,Orco -/- gamma vs. Orco +/+ gamma shuffle vl2a,0.5,1.0,-1.0,0.0
+1062,Orco -/- gamma vs. Orco +/+ gamma shuffle vl2p,0.5,1.0,-1.0,0.0
+1063,Orco -/- gamma vs. Orco +/+ gamma shuffle vm1,0.0,0.08041822253431617,-inf,2.520514480041325
+1064,Orco -/- gamma vs. Orco +/+ gamma shuffle vm2,1.25,0.3010187142082656,0.32192809488736235,1.2005828427165628
+1065,Orco -/- gamma vs. Orco +/+ gamma shuffle vm3,2.3333333333333335,0.04257342608932005,1.222392421336448,3.156525021071619
+1066,Orco -/- gamma vs. Orco +/+ gamma shuffle vm4,0.2222222222222222,0.19920024186080282,-2.1699250014423126,1.6134447196717197
+1067,Orco -/- gamma vs. Orco +/+ gamma shuffle vm5d,0.25,0.3121723529550292,-2.0,1.1641998303793217
+1068,Orco -/- gamma vs. Orco +/+ gamma shuffle vm5v,1.25,0.3010187142082656,0.32192809488736235,1.2005828427165628
+1069,Orco -/- gamma vs. Orco +/+ gamma shuffle vm7d,0.3333333333333333,0.7083131530029357,-1.5849625007211563,0.3448689765757822
+1070,Orco -/- gamma vs. Orco +/+ gamma shuffle vm7v,0.0,0.0422816969564549,-inf,3.1634009826347556
+1071,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle d,1.8,0.406209254377993,0.8479969065549501,0.9008868472839714
+1072,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle da1,9.0,0.018397618351977712,3.169925001442312,3.995534060137455
+1073,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle da2,0.0,0.006723115986190436,-inf,5.0022035434961385
+1074,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle da3,0.1111111111111111,0.018397618351977712,-3.1699250014423126,3.995534060137455
+1075,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle da4l,0.2857142857142857,0.16940806453806062,-1.8073549220576042,1.7754448914152776
+1076,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle da4m,0.16666666666666666,0.1182004237913766,-2.584962500721156,2.13537358864113
+1077,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dc1,13.5,2.6100125247868835e-07,3.7548875021634687,15.15874063086631
+1078,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dc2,1.6666666666666667,0.4346240579393924,0.7369655941662062,0.833273856181586
+1079,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dc3,5.333333333333333,0.0028036898166576814,2.415037499278844,5.876818937662894
+1080,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dc4,1.1428571428571428,1.0,0.19264507794239583,0.0
+1081,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl1,1.8888888888888888,0.13906055817348495,0.9175378398080271,1.972845770415359
+1082,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl2d,0.625,0.5675005031887076,-0.6780719051126377,0.5665136429508357
+1083,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl2v,0.375,0.21299463124760726,-1.415037499278844,1.5464883190006682
+1084,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl3,2.2,0.19067257370455054,1.1375035237499351,1.6571975957824268
+1085,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl4,0.4,0.1634931963849235,-1.3219280948873622,1.8109839018352727
+1086,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dl5,1.375,0.6300730875737386,0.45943161863729726,0.4619194543036256
+1087,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm1,0.2727272727272727,0.04865979260325477,-1.8744691179161412,3.022902203796658
+1088,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm2,0.5,0.2151686629093828,-1.0,1.5363330797487271
+1089,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm3,0.2,0.03287254887549774,-2.321928094887362,3.415117350184084
+1090,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm4,0.2857142857142857,0.16940806453806062,-1.8073549220576042,1.7754448914152776
+1091,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm5,0.6,0.7207595066758719,-0.7369655941662062,0.3274497525736831
+1092,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dm6,0.5,0.4973671120166074,-1.0,0.6984268695885341
+1093,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dp1l,1.6666666666666667,0.7207595066758719,0.7369655941662062,0.3274497525736831
+1094,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle dp1m,2.125,0.08493408618916455,1.0874628412503393,2.465879779911879
+1095,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle v,0.0,0.05928709003607348,-inf,2.8253637026482483
+1096,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va1d,3.6666666666666665,0.04865979260325477,1.874469117916141,3.022902203796658
+1097,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va1v,1.4,0.7671156555632632,0.48542682717024166,0.2651176994606225
+1098,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va2,0.45454545454545453,0.19067257370455054,-1.137503523749935,1.6571975957824268
+1099,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va3,1.2857142857142858,0.7950069323772515,0.36257007938470837,0.22940444439443833
+1100,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va4,0.5,0.6825655182272508,-1.0,0.3818967591279128
+1101,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va5,1.4285714285714286,0.6127908722681895,0.5145731728297582,0.4897315557904006
+1102,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va6,2.75,0.10416260443105546,1.4594316186372973,2.261802096696079
+1103,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va7l,0.125,0.034772245046857234,-3.0,3.358935766543595
+1104,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle va7m,0.4,0.1634931963849235,-1.3219280948873622,1.8109839018352727
+1105,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc1,0.5833333333333334,0.33420713003577457,-0.777607578663552,1.095994328411157
+1106,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc2,0.6666666666666666,0.5922915655059642,-0.5849625007211563,0.5237562560404146
+1107,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc3l,2.8,0.05093314465515242,1.4854268271702418,2.977241395339235
+1108,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc3m,0.6363636363636364,0.4587822700517357,-0.6520766965796931,0.7791795386503145
+1109,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc4,0.75,0.7825555016032225,-0.4150374992788438,0.24519043051672204
+1110,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vc5,1.2,1.0,0.2630344058337938,0.0
+1111,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vl1,0.2,0.21142591896461693,-2.321928094887362,1.5538806067956068
+1112,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vl2a,1.75,0.536762662696392,0.8073549220576041,0.6221992510783397
+1113,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vl2p,1.2857142857142858,0.7950069323772515,0.36257007938470837,0.22940444439443833
+1114,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm1,0.42857142857142855,0.33072846086529173,-1.222392421336448,1.1064576002080109
+1115,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm2,1.0,1.0,0.0,0.0
+1116,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm3,0.5,0.2821543802926211,-1.0,1.2653009099927541
+1117,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm4,1.0,1.0,0.0,0.0
+1118,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm5d,0.875,1.0,-0.19264507794239588,0.0
+1119,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm5v,1.1428571428571428,1.0,0.19264507794239583,0.0
+1120,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm7d,1.0,1.0,0.0,0.0
+1121,Orco +/+ alpha/beta vs. Orco +/+ alpha/beta shuffle vm7v,0.3,0.08146933654085992,-1.7369655941662063,2.507528568293336
+1122,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' d,9.0,0.45236497017246224,3.169925001442312,0.7932659688334668
+1123,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' da1,1.8,0.35517976204659846,0.8479969065549501,1.0351312457074906
+1124,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' da2,0.0,0.2595419847328234,-inf,1.348836798584994
+1125,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' da3,0.0,1.0,-inf,0.0
+1126,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' da4l,0.0,1.0,-inf,0.0
+1127,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' da4m,1.0,0.4532002348796212,0.0,0.7914212315591765
+1128,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dc1,9.0,0.031221044555628005,3.169925001442312,3.466662906554874
+1129,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dc2,5.0,0.7304416583220135,2.321928094887362,0.3141059163852931
+1130,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dc3,5.333333333333333,0.398172973728131,2.415037499278844,0.9208687607550092
+1131,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dc4,2.6666666666666665,1.0,1.4150374992788437,0.0
+1132,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl1,3.4,0.795671740856722,1.765534746362977,0.2285685640505759
+1133,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl2d,0.0,0.3262210670592936,-inf,1.1201800076209953
+1134,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl2v,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1135,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl3,0.0,0.06547186632717064,-inf,2.7261347503343942
+1136,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl4,0.0,0.5721503775826502,-inf,0.5583534242821631
+1137,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dl5,3.6666666666666665,1.0,1.874469117916141,0.0
+1138,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm1,0.5,0.009523943194391059,-1.0,4.653946314844958
+1139,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm2,1.5,0.2838910066237223,0.5849625007211562,1.2591648939770639
+1140,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm3,1.0,0.2764307856177199,0.0,1.2857948126190644
+1141,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm4,1.0,0.2764307856177199,0.0,1.2857948126190644
+1142,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm5,0.42857142857142855,0.0030612690374426043,-1.222392421336448,5.7889257308711395
+1143,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dm6,0.6,0.027649144278246225,-0.7369655941662062,3.5881604998382284
+1144,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dp1l,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1145,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' dp1m,1.7,0.1477193058202991,0.765534746362977,1.912441388302757
+1146,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' v,0.0,1.0,-inf,0.0
+1147,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va1d,0.0,0.06547186632717064,-inf,2.7261347503343942
+1148,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va1v,0.0,0.18920362918624758,-inf,1.664931440802832
+1149,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va2,2.5,1.0,1.3219280948873624,0.0
+1150,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va3,1.8,0.35517976204659846,0.8479969065549501,1.0351312457074906
+1151,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va4,0.0,1.0,-inf,0.0
+1152,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va5,10.0,0.28691975203583286,3.321928094887362,1.2485527119518216
+1153,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va6,3.6666666666666665,1.0,1.874469117916141,0.0
+1154,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va7l,0.3333333333333333,0.05349861393710114,-1.5849625007211563,2.9280995331335227
+1155,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' va7m,4.0,1.0,2.0,0.0
+1156,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc1,2.3333333333333335,0.7188945664383326,1.222392421336448,0.330040571181491
+1157,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc2,0.0,0.33837315138554286,-inf,1.0836059942748808
+1158,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc3l,7.0,0.23752966042123594,2.807354922057604,1.4374627773208952
+1159,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc3m,3.5,1.0,1.8073549220576042,0.0
+1160,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc4,2.0,0.6951567742709068,1.0,0.3636178843649315
+1161,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vc5,6.0,0.676040351252776,2.584962500721156,0.3915025135182906
+1162,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vl1,1.0,0.4532002348796212,0.0,0.7914212315591765
+1163,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vl2a,7.0,0.6795237883360756,2.807354922057604,0.38636303741494554
+1164,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vl2p,4.5,0.7274129129098965,2.169925001442312,0.3182609944423334
+1165,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm1,1.0,0.18025686411820596,0.0,1.7133724224425282
+1166,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm2,1.0,0.2764307856177199,0.0,1.2857948126190644
+1167,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm3,0.0,0.3262210670592936,-inf,1.1201800076209953
+1168,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm4,5.0,1.0,2.321928094887362,0.0
+1169,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm5d,3.5,1.0,1.8073549220576042,0.0
+1170,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm5v,2.6666666666666665,1.0,1.4150374992788437,0.0
+1171,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm7d,4.0,1.0,2.0,0.0
+1172,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' vm7v,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1173,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle d,9.0,0.45236497017246224,3.169925001442312,0.7932659688334668
+1174,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle da1,9.0,0.45236497017246224,3.169925001442312,0.7932659688334668
+1175,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle da2,0.0,1.0,-inf,0.0
+1176,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle da3,0.25,0.016050690085238982,-2.0,4.132003434365367
+1177,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle da4l,0.5,0.039084135311582294,-1.0,3.2420386408350503
+1178,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle da4m,0.14285714285714285,0.00031215986638685403,-2.807354922057604,8.071995109117326
+1179,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc1,27.0,0.001333037236017665,4.754887502163468,6.620295304178964
+1180,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc2,5.0,0.7304416583220135,2.321928094887362,0.3141059163852931
+1181,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.011681144964675125,-inf,4.449779278588939
+1182,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dc4,4.0,1.0,2.0,0.0
+1183,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl1,5.666666666666667,0.27841386061180545,2.5025003405291835,1.2786465650808525
+1184,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl2d,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1185,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl2v,3.0,1.0,1.584962500721156,0.0
+1186,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl3,5.5,0.5126430486385023,2.4594316186372973,0.6681754876214785
+1187,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl4,4.0,1.0,2.0,0.0
+1188,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dl5,3.6666666666666665,1.0,1.874469117916141,0.0
+1189,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm1,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1190,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm2,6.0,0.676040351252776,2.584962500721156,0.3915025135182906
+1191,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm3,1.0,0.2764307856177199,0.0,1.2857948126190644
+1192,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm4,1.0,0.2764307856177199,0.0,1.2857948126190644
+1193,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm5,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1194,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dm6,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1195,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dp1l,2.5,1.0,1.3219280948873624,0.0
+1196,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle dp1m,5.666666666666667,0.27841386061180545,2.5025003405291835,1.2786465650808525
+1197,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle v,0.0,0.0658837345860241,-inf,2.719863687574101
+1198,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,0.06547186632717064,-inf,2.7261347503343942
+1199,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,0.18920362918624758,-inf,1.664931440802832
+1200,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va2,2.5,1.0,1.3219280948873624,0.0
+1201,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.11075806784761409,-inf,2.2004070253276136
+1202,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va4,0.6666666666666666,0.10967049971489534,-0.5849625007211563,2.2102748656881186
+1203,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va5,2.5,0.7568331131104251,1.3219280948873624,0.2786125080916819
+1204,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.06547186632717064,-inf,2.7261347503343942
+1205,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va7l,0.5,0.16496469977741168,-1.0,1.8020237687131013
+1206,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle va7m,0.8,0.05030564563306565,-0.3219280948873623,2.989637968948837
+1207,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc1,3.5,1.0,1.8073549220576042,0.0
+1208,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc2,2.0,0.6951567742709068,1.0,0.3636178843649315
+1209,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc3l,14.0,0.11405659694507679,3.807354922057604,2.171060489354835
+1210,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc3m,7.0,0.6795237883360756,2.807354922057604,0.38636303741494554
+1211,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc4,3.0,1.0,1.584962500721156,0.0
+1212,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vc5,2.0,0.6951567742709068,1.0,0.3636178843649315
+1213,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl1,0.3333333333333333,0.05349861393710114,-1.5849625007211563,2.9280995331335227
+1214,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,0.18920362918624758,-inf,1.664931440802832
+1215,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vl2p,4.5,0.7274129129098965,2.169925001442312,0.3182609944423334
+1216,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm1,3.0,1.0,1.584962500721156,0.0
+1217,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm2,0.6666666666666666,0.10967049971489534,-0.5849625007211563,2.2102748656881186
+1218,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm3,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1219,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm4,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1220,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm5d,3.5,1.0,1.8073549220576042,0.0
+1221,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm5v,2.0,0.5080560264376766,1.0,0.6771635492218157
+1222,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm7d,2.6666666666666665,1.0,1.4150374992788437,0.0
+1223,Orco +/+ alpha/beta vs. Orco +/+ alpha'/beta' shuffle vm7v,0.5,0.009523943194391059,-1.0,4.653946314844958
+1224,Orco +/+ alpha/beta vs. Orco +/+ gamma d,1.2857142857142858,1.0,0.36257007938470837,0.0
+1225,Orco +/+ alpha/beta vs. Orco +/+ gamma da1,0.6923076923076923,0.10293590319649895,-0.5305147166987798,2.2736487835240475
+1226,Orco +/+ alpha/beta vs. Orco +/+ gamma da2,0.0,1.0,-inf,0.0
+1227,Orco +/+ alpha/beta vs. Orco +/+ gamma da3,1.0,1.0,0.0,0.0
+1228,Orco +/+ alpha/beta vs. Orco +/+ gamma da4l,1.0,1.0,0.0,0.0
+1229,Orco +/+ alpha/beta vs. Orco +/+ gamma da4m,0.5,0.5708813079368499,-1.0,0.560573957944239
+1230,Orco +/+ alpha/beta vs. Orco +/+ gamma dc1,3.0,0.034574785636260694,1.584962500721156,3.3646306014140723
+1231,Orco +/+ alpha/beta vs. Orco +/+ gamma dc2,1.6666666666666667,0.79528552512274,0.7369655941662062,0.22905407770933645
+1232,Orco +/+ alpha/beta vs. Orco +/+ gamma dc3,1.6,0.829821665361003,0.6780719051126377,0.1865444622882671
+1233,Orco +/+ alpha/beta vs. Orco +/+ gamma dc4,4.0,0.19694763318298203,2.0,1.6248174069871035
+1234,Orco +/+ alpha/beta vs. Orco +/+ gamma dl1,1.7,0.6731664305281291,0.765534746362977,0.39576268343446774
+1235,Orco +/+ alpha/beta vs. Orco +/+ gamma dl2d,0.8333333333333334,0.5284101473517697,-0.2630344058337938,0.6378825025975238
+1236,Orco +/+ alpha/beta vs. Orco +/+ gamma dl2v,0.75,0.4511742458310706,-0.4150374992788438,0.7959016597024813
+1237,Orco +/+ alpha/beta vs. Orco +/+ gamma dl3,0.0,0.002850948381083364,-inf,5.86010357476326
+1238,Orco +/+ alpha/beta vs. Orco +/+ gamma dl4,0.0,0.14190887309662203,-inf,1.9525701661395127
+1239,Orco +/+ alpha/beta vs. Orco +/+ gamma dl5,3.6666666666666665,0.15716092674046372,1.874469117916141,1.8504849875132363
+1240,Orco +/+ alpha/beta vs. Orco +/+ gamma dm1,0.42857142857142855,0.09485805733523825,-1.222392421336448,2.3553736380251555
+1241,Orco +/+ alpha/beta vs. Orco +/+ gamma dm2,3.0,0.4711763152934382,1.584962500721156,0.7525229125654596
+1242,Orco +/+ alpha/beta vs. Orco +/+ gamma dm3,1.0,1.0,0.0,0.0
+1243,Orco +/+ alpha/beta vs. Orco +/+ gamma dm4,0.6666666666666666,0.6500660518155099,-0.5849625007211563,0.43068130307752395
+1244,Orco +/+ alpha/beta vs. Orco +/+ gamma dm5,0.5,0.16530309954843414,-1.0,1.799974523281749
+1245,Orco +/+ alpha/beta vs. Orco +/+ gamma dm6,0.42857142857142855,0.09485805733523825,-1.222392421336448,2.3553736380251555
+1246,Orco +/+ alpha/beta vs. Orco +/+ gamma dp1l,1.25,1.0,0.32192809488736235,0.0
+1247,Orco +/+ alpha/beta vs. Orco +/+ gamma dp1m,1.7,0.6731664305281291,0.765534746362977,0.39576268343446774
+1248,Orco +/+ alpha/beta vs. Orco +/+ gamma v,0.0,1.0,-inf,0.0
+1249,Orco +/+ alpha/beta vs. Orco +/+ gamma va1d,1.375,1.0,0.45943161863729726,0.0
+1250,Orco +/+ alpha/beta vs. Orco +/+ gamma va1v,1.1666666666666667,0.7746266759914243,0.22239242133644802,0.25537407408571516
+1251,Orco +/+ alpha/beta vs. Orco +/+ gamma va2,0.5555555555555556,0.09098979611006934,-0.84799690655495,2.397007909410978
+1252,Orco +/+ alpha/beta vs. Orco +/+ gamma va3,1.0,0.45843632923520594,0.0,0.7799338644635989
+1253,Orco +/+ alpha/beta vs. Orco +/+ gamma va4,0.4,0.1284608629510011,-1.3219280948873622,2.05213098951196
+1254,Orco +/+ alpha/beta vs. Orco +/+ gamma va5,1.4285714285714286,1.0,0.5145731728297582,0.0
+1255,Orco +/+ alpha/beta vs. Orco +/+ gamma va6,2.2,0.43468391672313866,1.1375035237499351,0.8331361402383632
+1256,Orco +/+ alpha/beta vs. Orco +/+ gamma va7l,0.14285714285714285,0.009379358980741966,-2.807354922057604,4.669243857239304
+1257,Orco +/+ alpha/beta vs. Orco +/+ gamma va7m,0.4,0.02338259165807765,-1.3219280948873622,3.755763479719804
+1258,Orco +/+ alpha/beta vs. Orco +/+ gamma vc1,0.0,0.042149494478457325,-inf,3.1665325879998516
+1259,Orco +/+ alpha/beta vs. Orco +/+ gamma vc2,6.0,0.24092860468000385,2.584962500721156,1.4232546355221012
+1260,Orco +/+ alpha/beta vs. Orco +/+ gamma vc3l,2.8,0.21631839074142614,1.4854268271702418,1.5310039254052732
+1261,Orco +/+ alpha/beta vs. Orco +/+ gamma vc3m,1.4,1.0,0.48542682717024166,0.0
+1262,Orco +/+ alpha/beta vs. Orco +/+ gamma vc4,0.75,0.26207075492317233,-0.4150374992788438,1.3391407547211838
+1263,Orco +/+ alpha/beta vs. Orco +/+ gamma vc5,1.0,0.5573140415463362,0.0,0.5846263890550474
+1264,Orco +/+ alpha/beta vs. Orco +/+ gamma vl1,0.5,0.5708813079368499,-1.0,0.560573957944239
+1265,Orco +/+ alpha/beta vs. Orco +/+ gamma vl2a,2.3333333333333335,0.524682164326883,1.222392421336448,0.6449626010019928
+1266,Orco +/+ alpha/beta vs. Orco +/+ gamma vl2p,2.25,0.5609393761906999,1.1699250014423124,0.5781424431299517
+1267,Orco +/+ alpha/beta vs. Orco +/+ gamma vm1,1.5,1.0,0.5849625007211562,0.0
+1268,Orco +/+ alpha/beta vs. Orco +/+ gamma vm2,0.25,0.01726702443563135,-2.0,4.05895669838916
+1269,Orco +/+ alpha/beta vs. Orco +/+ gamma vm3,2.5,0.7005592383606003,1.3219280948873624,0.3558763509552951
+1270,Orco +/+ alpha/beta vs. Orco +/+ gamma vm4,0.625,0.15013067903774294,-0.6780719051126377,1.896249170569798
+1271,Orco +/+ alpha/beta vs. Orco +/+ gamma vm5d,0.7,0.19281574535125362,-0.5145731728297583,1.646020233380626
+1272,Orco +/+ alpha/beta vs. Orco +/+ gamma vm5v,1.3333333333333333,1.0,0.41503749927884376,0.0
+1273,Orco +/+ alpha/beta vs. Orco +/+ gamma vm7d,2.0,0.7626838160866966,1.0,0.27091172927570584
+1274,Orco +/+ alpha/beta vs. Orco +/+ gamma vm7v,0.75,0.4511742458310706,-0.4150374992788438,0.7959016597024813
+1275,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle d,1.8,0.7800277796169042,0.8479969065549501,0.248425745039228
+1276,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle da1,4.5,0.12423966513344889,2.169925001442312,2.085542795465292
+1277,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle da2,0.0,0.004519659288367547,-inf,5.399318666658859
+1278,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle da3,0.3333333333333333,0.30849585000866575,-1.5849625007211563,1.1760468878870922
+1279,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle da4l,0.3333333333333333,0.06769570164679521,-1.5849625007211563,2.6927325922642673
+1280,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle da4m,0.125,0.004102141323953985,-3.0,5.496246167474425
+1281,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dc1,3.0,0.034574785636260694,1.584962500721156,3.3646306014140723
+1282,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dc2,2.5,0.40011742399692435,1.3219280948873624,0.9159972149621478
+1283,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dc3,3.2,0.09828531103868743,1.6780719051126378,2.3198806929165756
+1284,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dc4,1.1428571428571428,0.7853341270384331,0.19264507794239583,0.24164601221913615
+1285,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl1,3.4,0.06466259782391481,1.765534746362977,2.7385723308152206
+1286,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl2d,2.5,0.7005592383606003,1.3219280948873624,0.3558763509552951
+1287,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl2v,1.5,1.0,0.5849625007211562,0.0
+1288,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl3,1.8333333333333333,0.6160238832885454,0.874469117916141,0.4844695446279013
+1289,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl4,2.0,1.0,1.0,0.0
+1290,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dl5,11.0,0.015361236960752832,3.4594316186372973,4.17590802320607
+1291,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm1,0.3333333333333333,0.02909618059671339,-1.5849625007211563,3.537148364390901
+1292,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm2,6.0,0.24092860468000385,2.584962500721156,1.4232546355221012
+1293,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm3,0.5,0.23463295797703043,-1.0,1.4497328667943785
+1294,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm4,0.3333333333333333,0.06769570164679521,-1.5849625007211563,2.6927325922642673
+1295,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm5,0.75,0.4511742458310706,-0.4150374992788438,0.7959016597024813
+1296,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dm6,0.5,0.16530309954843414,-1.0,1.799974523281749
+1297,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dp1l,1.6666666666666667,1.0,0.7369655941662062,0.0
+1298,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle dp1m,8.5,0.002886502387039266,3.0874628412503395,5.847709756496967
+1299,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle v,0.0,0.02833695999019294,-inf,3.5635883196973186
+1300,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va1d,11.0,0.015361236960752832,3.4594316186372973,4.17590802320607
+1301,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va1v,3.5,0.3077747742870618,1.8073549220576042,1.1783870158186833
+1302,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va2,1.0,0.7427691712827886,0.0,0.29736995375369024
+1303,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va3,1.8,0.7800277796169042,0.8479969065549501,0.248425745039228
+1304,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va4,0.4,0.1284608629510011,-1.3219280948873622,2.05213098951196
+1305,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va5,2.0,0.5899640628823881,1.0,0.5276936543063174
+1306,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va6,1.5714285714285714,1.0,0.6520766965796931,0.0
+1307,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va7l,0.5,0.5708813079368499,-1.0,0.560573957944239
+1308,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle va7m,0.5,0.07671815730172463,-1.0,2.5676168671817865
+1309,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc1,1.0,0.5760952003034048,0.0,0.5514823536386778
+1310,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc2,1.5,1.0,0.5849625007211562,0.0
+1311,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc3l,4.666666666666667,0.03933919461341577,2.222392421336448,3.235533938690987
+1312,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc3m,1.75,1.0,0.8073549220576041,0.0
+1313,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc4,1.2,1.0,0.2630344058337938,0.0
+1314,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vc5,0.75,0.26207075492317233,-0.4150374992788438,1.3391407547211838
+1315,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vl1,0.5,0.5708813079368499,-1.0,0.560573957944239
+1316,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vl2a,1.75,1.0,0.8073549220576041,0.0
+1317,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vl2p,4.5,0.12423966513344889,2.169925001442312,2.085542795465292
+1318,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm1,0.5,0.16530309954843414,-1.0,1.799974523281749
+1319,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm2,0.5,0.23463295797703043,-1.0,1.4497328667943785
+1320,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm3,1.6666666666666667,1.0,0.7369655941662062,0.0
+1321,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm4,0.5555555555555556,0.09098979611006934,-0.84799690655495,2.397007909410978
+1322,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm5d,0.875,0.41286471768908406,-0.19264507794239588,0.8846352997554807
+1323,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm5v,2.0,0.7626838160866966,1.0,0.27091172927570584
+1324,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm7d,1.3333333333333333,1.0,0.41503749927884376,0.0
+1325,Orco +/+ alpha/beta vs. Orco +/+ gamma shuffle vm7v,0.42857142857142855,0.09485805733523825,-1.222392421336448,2.3553736380251555
+1326,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' d,5.0,1.0,2.321928094887362,0.0
+1327,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' da1,0.2,0.004533967472067014,-2.321928094887362,5.396157901146837
+1328,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' da2,8.0,0.44502899931370354,3.0,0.8096158319420867
+1329,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' da3,0.0,0.11075806784761409,-inf,2.2004070253276136
+1330,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' da4l,0.0,0.18920362918624758,-inf,1.664931440802832
+1331,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' da4m,6.0,0.676040351252776,2.584962500721156,0.3915025135182906
+1332,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dc1,0.6666666666666666,0.10967049971489534,-0.5849625007211563,2.2102748656881186
+1333,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dc2,3.0,1.0,1.584962500721156,0.0
+1334,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dc3,1.0,0.18025686411820596,0.0,1.7133724224425282
+1335,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dc4,2.3333333333333335,0.7188945664383326,1.222392421336448,0.330040571181491
+1336,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl1,1.8,0.35517976204659846,0.8479969065549501,1.0351312457074906
+1337,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl2d,0.0,0.11119575026014883,-inf,2.196463114980939
+1338,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl2v,4.0,1.0,2.0,0.0
+1339,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl3,0.0,0.3262210670592936,-inf,1.1201800076209953
+1340,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl4,0.0,0.06282298028948718,-inf,2.767434344266823
+1341,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dl5,2.6666666666666665,1.0,1.4150374992788437,0.0
+1342,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm1,1.8333333333333333,0.37860646861709013,0.874469117916141,0.9712579547292849
+1343,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm2,3.0,1.0,1.584962500721156,0.0
+1344,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm3,5.0,0.7304416583220135,2.321928094887362,0.3141059163852931
+1345,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm4,3.5,1.0,1.8073549220576042,0.0
+1346,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm5,0.7142857142857143,0.013174552935113607,-0.4854268271702417,4.329468117949144
+1347,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dm6,1.2,0.1521405811968427,0.2630344058337938,1.8829503092753943
+1348,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dp1l,1.0,0.18025686411820596,0.0,1.7133724224425282
+1349,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' dp1m,0.8,0.006749439622669535,-0.3219280948873623,4.998295796407728
+1350,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' v,0.0,0.3262210670592936,-inf,1.1201800076209953
+1351,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va1d,0.0,0.5676466973466813,-inf,0.5662560655041169
+1352,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va1v,0.0,0.3262210670592936,-inf,1.1201800076209953
+1353,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va2,5.5,0.5126430486385023,2.4594316186372973,0.6681754876214785
+1354,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va3,1.4,0.29680103394285146,0.48542682717024166,1.2146932840600353
+1355,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va4,0.0,0.5721503775826502,-inf,0.5583534242821631
+1356,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va5,7.0,0.6795237883360756,2.807354922057604,0.38636303741494554
+1357,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va6,1.3333333333333333,0.37498694029576496,0.41503749927884376,0.9808640794961213
+1358,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va7l,2.6666666666666665,1.0,1.4150374992788437,0.0
+1359,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' va7m,10.0,0.28691975203583286,3.321928094887362,1.2485527119518216
+1360,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc1,4.0,0.7583918752058749,2.0,0.27655504117113267
+1361,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc2,0.0,0.11075806784761409,-inf,2.2004070253276136
+1362,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc3l,2.5,1.0,1.3219280948873624,0.0
+1363,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc3m,5.5,0.5126430486385023,2.4594316186372973,0.6681754876214785
+1364,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc4,2.6666666666666665,1.0,1.4150374992788437,0.0
+1365,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vc5,5.0,1.0,2.321928094887362,0.0
+1366,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vl1,5.0,1.0,2.321928094887362,0.0
+1367,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vl2a,4.0,1.0,2.0,0.0
+1368,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vl2p,3.5,1.0,1.8073549220576042,0.0
+1369,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm1,2.3333333333333335,0.7188945664383326,1.222392421336448,0.330040571181491
+1370,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm2,1.0,0.2764307856177199,0.0,1.2857948126190644
+1371,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm3,0.0,0.06282298028948718,-inf,2.767434344266823
+1372,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm4,5.0,1.0,2.321928094887362,0.0
+1373,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm5d,4.0,1.0,2.0,0.0
+1374,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm5v,2.3333333333333335,0.7188945664383326,1.222392421336448,0.330040571181491
+1375,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm7d,4.0,1.0,2.0,0.0
+1376,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' vm7v,5.0,0.7304416583220135,2.321928094887362,0.3141059163852931
+1377,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle d,5.0,1.0,2.321928094887362,0.0
+1378,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle da1,1.0,0.4532002348796212,0.0,0.7914212315591765
+1379,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle da2,0.0,0.11119575026014883,-inf,2.196463114980939
+1380,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle da3,2.25,0.7408615606053693,1.1699250014423124,0.29994149893356015
+1381,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle da4l,1.75,0.4747019675867877,0.8073549220576041,0.7450681085276455
+1382,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle da4m,0.8571428571428571,0.03908042454814613,-0.22239242133644802,3.2421335883008995
+1383,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dc1,2.0,1.0,1.0,0.0
+1384,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dc2,3.0,1.0,1.584962500721156,0.0
+1385,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.5676466973466813,-inf,0.5662560655041169
+1386,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dc4,3.5,1.0,1.8073549220576042,0.0
+1387,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl1,3.0,1.0,1.584962500721156,0.0
+1388,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl2d,2.6666666666666665,1.0,1.4150374992788437,0.0
+1389,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl2v,8.0,0.44502899931370354,3.0,0.8096158319420867
+1390,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl3,2.5,1.0,1.3219280948873624,0.0
+1391,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl4,10.0,0.28691975203583286,3.321928094887362,1.2485527119518216
+1392,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dl5,2.6666666666666665,1.0,1.4150374992788437,0.0
+1393,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm1,5.5,0.5126430486385023,2.4594316186372973,0.6681754876214785
+1394,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm2,12.0,0.18202812639117627,3.584962500721156,1.7035940632346531
+1395,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm3,5.0,0.7304416583220135,2.321928094887362,0.3141059163852931
+1396,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm4,3.5,1.0,1.8073549220576042,0.0
+1397,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm5,2.5,1.0,1.3219280948873624,0.0
+1398,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dm6,3.0,1.0,1.584962500721156,0.0
+1399,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dp1l,1.5,0.6041548768973366,0.5849625007211562,0.5039246952127796
+1400,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle dp1m,2.6666666666666665,1.0,1.4150374992788437,0.0
+1401,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle v,2.5,1.0,1.3219280948873624,0.0
+1402,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,0.5676466973466813,-inf,0.5662560655041169
+1403,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,0.3262210670592936,-inf,1.1201800076209953
+1404,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va2,5.5,0.5126430486385023,2.4594316186372973,0.6681754876214785
+1405,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.18920362918624758,-inf,1.664931440802832
+1406,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va4,1.3333333333333333,0.37498694029576496,0.41503749927884376,0.9808640794961213
+1407,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va5,1.75,0.4747019675867877,0.8073549220576041,0.7450681085276455
+1408,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.5721503775826502,-inf,0.5583534242821631
+1409,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va7l,4.0,1.0,2.0,0.0
+1410,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle va7m,2.0,0.5349693081919517,1.0,0.6255459015972403
+1411,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc1,6.0,0.5185575141755305,2.584962500721156,0.6567043333069413
+1412,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc2,3.0,1.0,1.584962500721156,0.0
+1413,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc3l,5.0,1.0,2.321928094887362,0.0
+1414,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc3m,11.0,0.1841317046122775,3.4594316186372973,1.6921039914894354
+1415,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc4,4.0,1.0,2.0,0.0
+1416,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vc5,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1417,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vl1,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1418,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,0.5721503775826502,-inf,0.5583534242821631
+1419,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vl2p,3.5,1.0,1.8073549220576042,0.0
+1420,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm1,7.0,0.6795237883360756,2.807354922057604,0.38636303741494554
+1421,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm2,0.6666666666666666,0.10967049971489534,-0.5849625007211563,2.2102748656881186
+1422,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm3,3.3333333333333335,1.0,1.7369655941662063,0.0
+1423,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm4,1.6666666666666667,0.4270273791463229,0.7369655941662062,0.8509071480284821
+1424,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm5d,4.0,1.0,2.0,0.0
+1425,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm5v,1.75,0.4747019675867877,0.8073549220576041,0.7450681085276455
+1426,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm7d,2.6666666666666665,1.0,1.4150374992788437,0.0
+1427,Orco +/+ alpha/beta shuffle vs. Orco +/+ alpha'/beta' shuffle vm7v,1.6666666666666667,0.35972227525964373,0.7369655941662062,1.0224230028706378
+1428,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma d,0.7142857142857143,0.2395095015505463,-0.4854268271702417,1.4291621904732281
+1429,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma da1,0.07692307692307693,4.9565671837886475e-05,-3.700439718141092,9.912212063887802
+1430,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma da2,0.0,0.021373457770545484,-inf,3.8456054178479193
+1431,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma da3,9.0,0.04695974420834098,3.169925001442312,3.058464550488609
+1432,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma da4l,3.5,0.3077747742870618,1.8073549220576042,1.1783870158186833
+1433,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma da4m,3.0,0.4711763152934382,1.584962500721156,0.7525229125654596
+1434,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dc1,0.2222222222222222,0.008453359601014671,-2.1699250014423126,4.773191330710497
+1435,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dc2,1.0,0.5573140415463362,0.0,0.5846263890550474
+1436,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dc3,0.3,0.015730957369520068,-1.7369655941662063,4.152124701111745
+1437,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dc4,3.5,0.3077747742870618,1.8073549220576042,1.1783870158186833
+1438,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl1,0.9,0.32972140929186083,-0.15200309344504995,1.1095071953382476
+1439,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl2d,1.3333333333333333,1.0,0.41503749927884376,0.0
+1440,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl2v,2.0,0.7626838160866966,1.0,0.27091172927570584
+1441,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl3,0.0,0.07656845875469373,-inf,2.569570052638847
+1442,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl4,0.0,0.00554454253878545,-inf,5.194941161351278
+1443,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dl5,2.6666666666666665,0.3643788942567298,1.4150374992788437,1.0095610344374624
+1444,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm1,1.5714285714285714,1.0,0.6520766965796931,0.0
+1445,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm2,6.0,0.044616611188726646,2.584962500721156,3.109649041119997
+1446,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm3,5.0,0.1252167574585195,2.321928094887362,2.077708983757319
+1447,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm4,2.3333333333333335,0.524682164326883,1.222392421336448,0.6449626010019928
+1448,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm5,0.8333333333333334,0.5284101473517697,-0.2630344058337938,0.6378825025975238
+1449,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dm6,0.8571428571428571,0.3895015485260556,-0.22239242133644802,0.9428874380025859
+1450,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dp1l,0.75,0.4511742458310706,-0.4150374992788438,0.7959016597024813
+1451,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma dp1m,0.8,0.21599244116051342,-0.3219280948873623,1.532511866537551
+1452,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma v,0.0,0.07656845875469373,-inf,2.569570052638847
+1453,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va1d,0.375,0.05305327285784976,-1.415037499278844,2.9364587219919596
+1454,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va1v,0.8333333333333334,0.5284101473517697,-0.2630344058337938,0.6378825025975238
+1455,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va2,1.2222222222222223,0.8107546816562226,0.289506617194985,0.20978975933562174
+1456,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va3,0.7777777777777778,0.2862659224371209,-0.36257007938470825,1.2508341014261746
+1457,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va4,0.8,0.49185896833048515,-0.3219280948873623,0.7095632533165033
+1458,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va5,1.0,0.5760952003034048,0.0,0.5514823536386778
+1459,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va6,0.8,0.49185896833048515,-0.3219280948873623,0.7095632533165033
+1460,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va7l,1.1428571428571428,0.7853341270384331,0.19264507794239583,0.24164601221913615
+1461,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma va7m,1.0,0.47211742649148913,0.0,0.7505275393988273
+1462,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc1,0.0,0.001477066658101637,-inf,6.517697145712165
+1463,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc2,9.0,0.04695974420834098,3.169925001442312,3.058464550488609
+1464,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc3l,1.0,0.7427691712827886,0.0,0.29736995375369024
+1465,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc3m,2.2,0.43468391672313866,1.1375035237499351,0.8331361402383632
+1466,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc4,1.0,0.5951202607983006,0.0,0.5189917748710576
+1467,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vc5,0.8333333333333334,0.5284101473517697,-0.2630344058337938,0.6378825025975238
+1468,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vl1,2.5,0.7005592383606003,1.3219280948873624,0.3558763509552951
+1469,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vl2a,1.3333333333333333,1.0,0.41503749927884376,0.0
+1470,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vl2p,1.75,1.0,0.8073549220576041,0.0
+1471,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm1,3.5,0.3077747742870618,1.8073549220576042,1.1783870158186833
+1472,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm2,0.25,0.01726702443563135,-2.0,4.05895669838916
+1473,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm3,5.0,0.1252167574585195,2.321928094887362,2.077708983757319
+1474,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm4,0.625,0.15013067903774294,-0.6780719051126377,1.896249170569798
+1475,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm5d,0.8,0.21599244116051342,-0.3219280948873623,1.532511866537551
+1476,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm5v,1.1666666666666667,0.7746266759914243,0.22239242133644802,0.25537407408571516
+1477,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm7d,2.0,0.7626838160866966,1.0,0.27091172927570584
+1478,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma vm7v,2.5,0.40011742399692435,1.3219280948873624,0.9159972149621478
+1479,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle d,1.0,0.7427691712827886,0.0,0.29736995375369024
+1480,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle da1,0.5,0.5708813079368499,-1.0,0.560573957944239
+1481,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle da2,1.3333333333333333,1.0,0.41503749927884376,0.0
+1482,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle da3,3.0,0.3625930701302902,1.584962500721156,1.0144740924538054
+1483,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle da4l,1.1666666666666667,0.7746266759914243,0.22239242133644802,0.25537407408571516
+1484,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle da4m,0.75,0.26207075492317233,-0.4150374992788438,1.3391407547211838
+1485,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dc1,0.2222222222222222,0.008453359601014671,-2.1699250014423126,4.773191330710497
+1486,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dc2,1.5,1.0,0.5849625007211562,0.0
+1487,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dc3,0.6,0.27877866906520654,-0.7369655941662062,1.2773371128319517
+1488,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dc4,1.0,0.5760952003034048,0.0,0.5514823536386778
+1489,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl1,1.8,0.7800277796169042,0.8479969065549501,0.248425745039228
+1490,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl2d,4.0,0.19694763318298203,2.0,1.6248174069871035
+1491,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl2v,4.0,0.19694763318298203,2.0,1.6248174069871035
+1492,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl3,0.8333333333333334,0.5284101473517697,-0.2630344058337938,0.6378825025975238
+1493,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl4,5.0,0.1252167574585195,2.321928094887362,2.077708983757319
+1494,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dl5,8.0,0.08174715331595872,3.0,2.504124291634203
+1495,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm1,1.2222222222222223,0.8107546816562226,0.289506617194985,0.20978975933562174
+1496,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm2,12.0,0.00877429760585173,3.584962500721156,4.735928557751155
+1497,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm3,2.5,0.40011742399692435,1.3219280948873624,0.9159972149621478
+1498,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm4,1.1666666666666667,0.7746266759914243,0.22239242133644802,0.25537407408571516
+1499,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm5,1.25,1.0,0.32192809488736235,0.0
+1500,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dm6,1.0,0.5573140415463362,0.0,0.5846263890550474
+1501,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dp1l,1.0,0.6935361074905967,0.0,0.36595197498694754
+1502,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle dp1m,4.0,0.19694763318298203,2.0,1.6248174069871035
+1503,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle v,1.25,1.0,0.32192809488736235,0.0
+1504,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va1d,3.0,0.6419623182786072,1.584962500721156,0.44322567128483426
+1505,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va1v,2.5,0.7005592383606003,1.3219280948873624,0.3558763509552951
+1506,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va2,2.2,0.43468391672313866,1.1375035237499351,0.8331361402383632
+1507,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va3,1.4,1.0,0.48542682717024166,0.0
+1508,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va4,0.8,0.49185896833048515,-0.3219280948873623,0.7095632533165033
+1509,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va5,1.4,1.0,0.48542682717024166,0.0
+1510,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va6,0.5714285714285714,0.20360962630846802,-0.8073549220576042,1.5915507149299988
+1511,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va7l,4.0,0.19694763318298203,2.0,1.6248174069871035
+1512,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle va7m,1.25,0.80492496643642,0.32192809488736235,0.21700621530359093
+1513,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc1,1.7142857142857142,0.8059135223497469,0.777607578663552,0.2157788346017879
+1514,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc2,2.25,0.5609393761906999,1.1699250014423124,0.5781424431299517
+1515,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc3l,1.6666666666666667,1.0,0.7369655941662062,0.0
+1516,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc3m,2.75,0.27827645127047473,1.4594316186372973,1.2791402303780146
+1517,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc4,1.6,1.0,0.6780719051126377,0.0
+1518,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vc5,0.625,0.15013067903774294,-0.6780719051126377,1.896249170569798
+1519,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vl1,2.5,0.7005592383606003,1.3219280948873624,0.3558763509552951
+1520,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vl2a,1.0,0.7197686457110519,0.0,0.3288254440094212
+1521,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vl2p,3.5,0.3077747742870618,1.8073549220576042,1.1783870158186833
+1522,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm1,1.1666666666666667,0.7746266759914243,0.22239242133644802,0.25537407408571516
+1523,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm2,0.5,0.23463295797703043,-1.0,1.4497328667943785
+1524,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm3,3.3333333333333335,0.2415641871255537,1.7369655941662063,1.4206200560051583
+1525,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm4,0.5555555555555556,0.09098979611006934,-0.84799690655495,2.397007909410978
+1526,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm5d,1.0,0.5951202607983006,0.0,0.5189917748710576
+1527,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm5v,1.75,1.0,0.8073549220576041,0.0
+1528,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm7d,1.3333333333333333,1.0,0.41503749927884376,0.0
+1529,Orco +/+ alpha/beta shuffle vs. Orco +/+ gamma shuffle vm7v,1.4285714285714286,1.0,0.5145731728297582,0.0
+1530,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle d,1.0,1.0,0.0,0.0
+1531,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da1,5.0,0.19744683177519073,2.321928094887362,1.6222859370850204
+1532,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da2,0.0,1.0,-inf,0.0
+1533,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da3,0.0,0.11389207807118316,-inf,2.17250396256167
+1534,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da4l,0.0,0.11389207807118316,-inf,2.17250396256167
+1535,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle da4m,0.14285714285714285,0.05440013049506574,-2.807354922057604,2.9113887263167615
+1536,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc1,3.0,0.6135476463834698,1.584962500721156,0.4884973546300627
+1537,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc2,1.0,1.0,0.0,0.0
+1538,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc3,0.0,0.23880597014925323,-inf,1.432103897151187
+1539,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dc4,1.5,1.0,0.5849625007211562,0.0
+1540,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl1,1.6666666666666667,0.7090461939984849,0.7369655941662062,0.34383460083690026
+1541,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl2d,0.0,0.23880597014925323,-inf,1.432103897151187
+1542,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl2v,2.0,1.0,1.0,0.0
+1543,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl3,0.0,0.4925373134328344,-inf,0.7081850579244887
+1544,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl4,0.0,1.0,-inf,0.0
+1545,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dl5,1.0,1.0,0.0,0.0
+1546,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm1,3.0,0.2585370750283895,1.584962500721156,1.3527161716103469
+1547,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm2,4.0,0.35591274397244826,2.0,1.033069679373303
+1548,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm3,1.0,1.0,0.0,0.0
+1549,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm4,1.0,1.0,0.0,0.0
+1550,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm5,3.5,0.14966403794394953,1.8073549220576042,1.8993622439111282
+1551,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dm6,2.5,0.4274779946421764,1.3219280948873624,0.8498524664514056
+1552,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dp1l,1.5,1.0,0.5849625007211562,0.0
+1553,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle dp1m,3.3333333333333335,0.061509903949990154,1.7369655941662063,2.7885570772979493
+1554,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle v,0.0,0.4925373134328344,-inf,0.7081850579244887
+1555,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va1d,0.0,1.0,-inf,0.0
+1556,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va1v,0.0,1.0,-inf,0.0
+1557,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va2,1.0,1.0,0.0,0.0
+1558,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va3,0.0,0.05338691159586701,-inf,2.9301896642591885
+1559,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va4,0.0,0.23880597014925323,-inf,1.432103897151187
+1560,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va5,0.25,0.35591274397244826,-2.0,1.033069679373303
+1561,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va6,0.0,0.23880597014925323,-inf,1.432103897151187
+1562,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va7l,1.5,1.0,0.5849625007211562,0.0
+1563,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle va7m,0.2,0.19744683177519073,-2.321928094887362,1.6222859370850204
+1564,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc1,1.5,1.0,0.5849625007211562,0.0
+1565,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc2,0.0,0.23880597014925323,-inf,1.432103897151187
+1566,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc3l,2.0,1.0,1.0,0.0
+1567,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc3m,2.0,1.0,1.0,0.0
+1568,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc4,1.5,1.0,0.5849625007211562,0.0
+1569,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vc5,0.3333333333333333,0.6135476463834698,-1.5849625007211563,0.4884973546300627
+1570,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl1,0.3333333333333333,0.6135476463834698,-1.5849625007211563,0.4884973546300627
+1571,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl2a,0.0,1.0,-inf,0.0
+1572,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vl2p,1.0,1.0,0.0,0.0
+1573,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm1,3.0,0.6135476463834698,1.584962500721156,0.4884973546300627
+1574,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm2,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1575,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm3,0.0,0.23880597014925323,-inf,1.432103897151187
+1576,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm4,0.3333333333333333,0.6135476463834698,-1.5849625007211563,0.4884973546300627
+1577,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm5d,1.0,1.0,0.0,0.0
+1578,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm5v,0.75,1.0,-0.4150374992788438,0.0
+1579,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm7d,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1580,Orco +/+ alpha'/beta' vs. Orco +/+ alpha'/beta' shuffle vm7v,0.3333333333333333,0.2585370750283895,-1.5849625007211563,1.3527161716103469
+1581,Orco +/+ alpha'/beta' vs. Orco +/+ gamma d,0.14285714285714285,0.2656748924102387,-2.807354922057604,1.3254819266910383
+1582,Orco +/+ alpha'/beta' vs. Orco +/+ gamma da1,0.38461538461538464,0.784076845553779,-1.3785116232537298,0.24324824614712628
+1583,Orco +/+ alpha'/beta' vs. Orco +/+ gamma da2,0.0,0.33009708737863697,-inf,1.1083684636134858
+1584,Orco +/+ alpha'/beta' vs. Orco +/+ gamma da3,0.0,1.0,-inf,0.0
+1585,Orco +/+ alpha'/beta' vs. Orco +/+ gamma da4l,0.0,1.0,-inf,0.0
+1586,Orco +/+ alpha'/beta' vs. Orco +/+ gamma da4m,0.5,1.0,-1.0,0.0
+1587,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dc1,0.3333333333333333,0.7464131105159545,-1.5849625007211563,0.29247606460332676
+1588,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dc2,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1589,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dc3,0.3,0.537103296973581,-1.7369655941662063,0.6215648436170615
+1590,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dc4,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1591,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl1,0.5,1.0,-1.0,0.0
+1592,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl2d,0.0,0.17429927656922456,-inf,1.746981476956889
+1593,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl2v,0.5,1.0,-1.0,0.0
+1594,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl3,0.0,1.0,-inf,0.0
+1595,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl4,0.0,1.0,-inf,0.0
+1596,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dl5,1.0,0.3935724977292633,0.0,0.9324899899006432
+1597,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm1,0.8571428571428571,0.3470105134586663,-0.22239242133644802,1.0584002013424816
+1598,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm2,2.0,0.09045951553744544,1.0,2.402852870491271
+1599,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm3,1.0,0.5970854561184251,0.0,0.5156950332565295
+1600,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm4,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1601,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm5,1.1666666666666667,0.11586611681229327,0.22239242133644802,2.155319919848867
+1602,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dm6,0.7142857142857143,0.5246381964152234,-0.4854268271702417,0.6450464036486016
+1603,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dp1l,0.75,0.6817924533777713,-0.4150374992788438,0.383029988014026
+1604,Orco +/+ alpha'/beta' vs. Orco +/+ gamma dp1m,1.0,0.11013939989732753,0.0,2.2060084437069745
+1605,Orco +/+ alpha'/beta' vs. Orco +/+ gamma v,0.0,1.0,-inf,0.0
+1606,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va1d,0.0,0.05007506284179974,-inf,2.994232142477478
+1607,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va1v,0.0,0.17429927656922456,-inf,1.746981476956889
+1608,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va2,0.2222222222222222,0.33103960336827265,-2.1699250014423126,1.105517263123996
+1609,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va3,0.5555555555555556,1.0,-0.84799690655495,0.0
+1610,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va4,0.0,0.16811176263257183,-inf,1.7831262669967658
+1611,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va5,0.14285714285714285,0.2656748924102387,-2.807354922057604,1.3254819266910383
+1612,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va6,0.6,1.0,-0.7369655941662062,0.0
+1613,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va7l,0.42857142857142855,1.0,-1.222392421336448,0.0
+1614,Orco +/+ alpha'/beta' vs. Orco +/+ gamma va7m,0.1,0.09585821392743268,-3.321928094887362,2.344885117518612
+1615,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc1,0.0,0.03383639334807277,-inf,3.386218329472795
+1616,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc2,0.0,1.0,-inf,0.0
+1617,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc3l,0.4,1.0,-1.3219280948873622,0.0
+1618,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc3m,0.4,1.0,-1.3219280948873622,0.0
+1619,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc4,0.375,1.0,-1.415037499278844,0.0
+1620,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vc5,0.16666666666666666,0.4206990817903007,-2.584962500721156,0.8658374709639869
+1621,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vl1,0.5,1.0,-1.0,0.0
+1622,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vl2a,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1623,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vl2p,0.5,1.0,-1.0,0.0
+1624,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm1,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1625,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm2,0.25,0.4906778798372078,-2.0,0.7119674156934575
+1626,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm3,0.0,1.0,-inf,0.0
+1627,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm4,0.125,0.2653313485002564,-3.0,1.3267758623605148
+1628,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm5d,0.2,0.3283128626211309,-2.321928094887362,1.113788275768644
+1629,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm5v,0.5,1.0,-1.0,0.0
+1630,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm7d,0.5,1.0,-1.0,0.0
+1631,Orco +/+ alpha'/beta' vs. Orco +/+ gamma vm7v,0.5,1.0,-1.0,0.0
+1632,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle d,0.2,0.6608117360180573,-2.321928094887362,0.41428629661519795
+1633,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle da1,2.5,0.03790175891918919,1.3219280948873624,3.2727577584933556
+1634,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle da2,0.16666666666666666,0.4206990817903007,-2.584962500721156,0.8658374709639869
+1635,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle da3,0.0,0.5489762568489839,-inf,0.5997000864060359
+1636,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle da4l,0.0,0.17429927656922456,-inf,1.746981476956889
+1637,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle da4m,0.125,0.2653313485002564,-3.0,1.3267758623605148
+1638,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dc1,0.3333333333333333,0.7464131105159545,-1.5849625007211563,0.29247606460332676
+1639,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dc2,0.5,1.0,-1.0,0.0
+1640,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dc3,0.6,1.0,-0.7369655941662062,0.0
+1641,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dc4,0.42857142857142855,1.0,-1.222392421336448,0.0
+1642,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl1,1.0,0.29184270512813326,0.0,1.231540302922664
+1643,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl2d,0.0,1.0,-inf,0.0
+1644,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl2v,1.0,0.5970854561184251,0.0,0.5156950332565295
+1645,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl3,0.0,0.17429927656922456,-inf,1.746981476956889
+1646,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl4,0.0,1.0,-inf,0.0
+1647,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dl5,3.0,0.10387772757858332,1.584962500721156,2.26454076787369
+1648,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm1,0.6666666666666666,0.5610940796014515,-0.5849625007211563,0.5778666876951501
+1649,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm2,4.0,0.03973212855266079,2.0,3.22559513513993
+1650,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm3,0.5,1.0,-1.0,0.0
+1651,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm4,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1652,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm5,1.75,0.03789431592383213,0.8073549220576041,3.272954153765707
+1653,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dm6,0.8333333333333334,0.49827970252620324,-0.2630344058337938,0.6965937079657012
+1654,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dp1l,1.0,0.3935724977292633,0.0,0.9324899899006432
+1655,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle dp1m,5.0,0.00021444402639015996,2.321928094887362,8.4474618028794
+1656,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle v,0.0,0.2994097856387573,-inf,1.2059421233665386
+1657,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va1d,0.0,1.0,-inf,0.0
+1658,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va1v,0.0,1.0,-inf,0.0
+1659,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va2,0.4,1.0,-1.3219280948873622,0.0
+1660,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va3,1.0,0.29184270512813326,0.0,1.231540302922664
+1661,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va4,0.0,0.16811176263257183,-inf,1.7831262669967658
+1662,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va5,0.2,0.6608117360180573,-2.321928094887362,0.41428629661519795
+1663,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va6,0.42857142857142855,1.0,-1.222392421336448,0.0
+1664,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va7l,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1665,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle va7m,0.125,0.2653313485002564,-3.0,1.3267758623605148
+1666,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc1,0.42857142857142855,1.0,-1.222392421336448,0.0
+1667,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc2,0.0,0.2994097856387573,-inf,1.2059421233665386
+1668,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc3l,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1669,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc3m,0.5,1.0,-1.0,0.0
+1670,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc4,0.6,1.0,-0.7369655941662062,0.0
+1671,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vc5,0.125,0.2653313485002564,-3.0,1.3267758623605148
+1672,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vl1,0.5,1.0,-1.0,0.0
+1673,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vl2a,0.25,1.0,-2.0,0.0
+1674,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vl2p,1.0,0.5970854561184251,0.0,0.5156950332565295
+1675,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm1,0.5,1.0,-1.0,0.0
+1676,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm2,0.5,1.0,-1.0,0.0
+1677,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm3,0.0,0.5489762568489839,-inf,0.5997000864060359
+1678,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm4,0.1111111111111111,0.1592859219887507,-3.1699250014423126,1.8370544401788305
+1679,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm5d,0.25,0.4906778798372078,-2.0,0.7119674156934575
+1680,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm5v,0.75,0.6817924533777713,-0.4150374992788438,0.383029988014026
+1681,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm7d,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1682,Orco +/+ alpha'/beta' vs. Orco +/+ gamma shuffle vm7v,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1683,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma d,0.14285714285714285,0.2656748924102387,-2.807354922057604,1.3254819266910383
+1684,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma da1,0.07692307692307693,0.03179564350024121,-3.700439718141092,3.4484259954286918
+1685,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma da2,0.0,1.0,-inf,0.0
+1686,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma da3,4.0,0.03973212855266079,2.0,3.22559513513993
+1687,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma da4l,2.0,0.09045951553744544,1.0,2.402852870491271
+1688,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma da4m,3.5,0.005548771457030005,1.8073549220576042,5.194178734821027
+1689,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dc1,0.1111111111111111,0.1592859219887507,-3.1699250014423126,1.8370544401788305
+1690,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dc2,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1691,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dc3,0.0,0.02832558806355648,-inf,3.5639897109929715
+1692,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dc4,1.0,0.5970854561184251,0.0,0.5156950332565295
+1693,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl1,0.3,0.537103296973581,-1.7369655941662063,0.6215648436170615
+1694,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl2d,0.5,1.0,-1.0,0.0
+1695,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl2v,0.25,1.0,-2.0,0.0
+1696,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl3,0.0,0.10679611650485361,-inf,2.2368337154312723
+1697,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl4,0.0,0.33009708737863697,-inf,1.1083684636134858
+1698,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dl5,1.0,0.3935724977292633,0.0,0.9324899899006432
+1699,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm1,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1700,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm2,0.5,1.0,-1.0,0.0
+1701,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm3,1.0,0.5970854561184251,0.0,0.5156950332565295
+1702,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm4,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1703,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm5,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1704,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dm6,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1705,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dp1l,0.5,1.0,-1.0,0.0
+1706,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma dp1m,0.3,0.537103296973581,-1.7369655941662063,0.6215648436170615
+1707,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma v,0.0,0.10679611650485361,-inf,2.2368337154312723
+1708,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va1d,0.0,0.05007506284179974,-inf,2.994232142477478
+1709,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va1v,0.0,0.17429927656922456,-inf,1.746981476956889
+1710,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va2,0.2222222222222222,0.33103960336827265,-2.1699250014423126,1.105517263123996
+1711,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va3,0.0,0.028129894288914194,-inf,3.570922414435737
+1712,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va4,0.6,1.0,-0.7369655941662062,0.0
+1713,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va5,0.5714285714285714,1.0,-0.8073549220576042,0.0
+1714,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va6,0.0,0.16811176263257183,-inf,1.7831262669967658
+1715,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va7l,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1716,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma va7m,0.5,1.0,-1.0,0.0
+1717,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc1,0.0,0.10679611650485361,-inf,2.2368337154312723
+1718,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc2,3.0,0.10387772757858332,1.584962500721156,2.26454076787369
+1719,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc3l,0.2,0.6608117360180573,-2.321928094887362,0.41428629661519795
+1720,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc3m,0.2,0.6608117360180573,-2.321928094887362,0.41428629661519795
+1721,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc4,0.25,0.4906778798372078,-2.0,0.7119674156934575
+1722,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vc5,0.5,1.0,-1.0,0.0
+1723,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vl1,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1724,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vl2a,0.0,0.5489762568489839,-inf,0.5997000864060359
+1725,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vl2p,0.5,1.0,-1.0,0.0
+1726,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm1,0.5,1.0,-1.0,0.0
+1727,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm2,0.375,1.0,-1.415037499278844,0.0
+1728,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm3,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1729,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm4,0.375,1.0,-1.415037499278844,0.0
+1730,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm5d,0.2,0.3283128626211309,-2.321928094887362,1.113788275768644
+1731,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm5v,0.6666666666666666,0.7263343831961113,-0.5849625007211563,0.31974478727834016
+1732,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm7d,0.75,0.6817924533777713,-0.4150374992788438,0.383029988014026
+1733,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma vm7v,1.5,0.07760952025640394,0.5849625007211562,2.55606517560145
+1734,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle d,0.2,0.6608117360180573,-2.321928094887362,0.41428629661519795
+1735,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle da1,0.5,1.0,-1.0,0.0
+1736,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle da2,0.0,0.17429927656922456,-inf,1.746981476956889
+1737,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle da3,1.3333333333333333,0.21498915266077945,0.41503749927884376,1.5371677048678174
+1738,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle da4l,0.6666666666666666,0.7263343831961113,-0.5849625007211563,0.31974478727834016
+1739,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle da4m,0.875,0.24521396063247308,-0.19264507794239588,1.405624140845615
+1740,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dc1,0.1111111111111111,0.1592859219887507,-3.1699250014423126,1.8370544401788305
+1741,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dc2,0.5,1.0,-1.0,0.0
+1742,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dc3,0.0,0.16811176263257183,-inf,1.7831262669967658
+1743,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dc4,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1744,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl1,0.6,1.0,-0.7369655941662062,0.0
+1745,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl2d,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1746,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl2v,0.5,1.0,-1.0,0.0
+1747,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl3,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1748,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl4,0.5,1.0,-1.0,0.0
+1749,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dl5,3.0,0.10387772757858332,1.584962500721156,2.26454076787369
+1750,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm1,0.2222222222222222,0.33103960336827265,-2.1699250014423126,1.105517263123996
+1751,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm2,1.0,1.0,0.0,0.0
+1752,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm3,0.5,1.0,-1.0,0.0
+1753,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm4,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1754,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm5,0.5,1.0,-1.0,0.0
+1755,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dm6,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1756,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dp1l,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1757,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle dp1m,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1758,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle v,0.5,1.0,-1.0,0.0
+1759,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va1d,0.0,1.0,-inf,0.0
+1760,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va1v,0.0,1.0,-inf,0.0
+1761,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va2,0.4,1.0,-1.3219280948873622,0.0
+1762,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va3,0.0,0.16811176263257183,-inf,1.7831262669967658
+1763,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va4,0.6,1.0,-0.7369655941662062,0.0
+1764,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va5,0.8,0.473003642085288,-0.3219280948873623,0.7486521905509523
+1765,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va6,0.0,0.09235438721818037,-inf,2.382122067042106
+1766,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va7l,1.0,0.5970854561184251,0.0,0.5156950332565295
+1767,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle va7m,0.625,0.7544634879598999,-0.6780719051126377,0.2817483943111196
+1768,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc1,0.2857142857142857,0.7141714668937128,-1.8073549220576042,0.3366321957627964
+1769,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc2,0.75,0.6817924533777713,-0.4150374992788438,0.383029988014026
+1770,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc3l,0.3333333333333333,1.0,-1.5849625007211563,0.0
+1771,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc3m,0.25,1.0,-2.0,0.0
+1772,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc4,0.4,1.0,-1.3219280948873622,0.0
+1773,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vc5,0.375,1.0,-1.415037499278844,0.0
+1774,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vl1,1.5,0.32847576019737657,0.5849625007211562,1.1132922331335362
+1775,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vl2a,0.0,0.2994097856387573,-inf,1.2059421233665386
+1776,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vl2p,1.0,0.5970854561184251,0.0,0.5156950332565295
+1777,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm1,0.16666666666666666,0.4206990817903007,-2.584962500721156,0.8658374709639869
+1778,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm2,0.75,0.6817924533777713,-0.4150374992788438,0.383029988014026
+1779,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm3,1.0,0.3935724977292633,0.0,0.9324899899006432
+1780,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm4,0.3333333333333333,0.7464131105159545,-1.5849625007211563,0.29247606460332676
+1781,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm5d,0.25,0.4906778798372078,-2.0,0.7119674156934575
+1782,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm5v,1.0,0.43429769489381065,0.0,0.8340250470911575
+1783,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm7d,0.5,1.0,-1.0,0.0
+1784,Orco +/+ alpha'/beta' shuffle vs. Orco +/+ gamma shuffle vm7v,0.8571428571428571,0.3470105134586663,-0.22239242133644802,1.0584002013424816
+1785,Orco +/+ gamma vs. Orco +/+ gamma shuffle d,1.4,0.7639568693779908,0.48542682717024166,0.26924394510291566
+1786,Orco +/+ gamma vs. Orco +/+ gamma shuffle da1,6.5,0.004679719081201414,2.700439718141092,5.3645171962384905
+1787,Orco +/+ gamma vs. Orco +/+ gamma shuffle da2,0.0,0.027904310654982837,-inf,3.5789740983264684
+1788,Orco +/+ gamma vs. Orco +/+ gamma shuffle da3,0.3333333333333333,0.6194647201946454,-1.5849625007211563,0.4788995283729314
+1789,Orco +/+ gamma vs. Orco +/+ gamma shuffle da4l,0.3333333333333333,0.27442466235050983,-1.5849625007211563,1.2930785097984732
+1790,Orco +/+ gamma vs. Orco +/+ gamma shuffle da4m,0.25,0.09655448381865689,-2.0,2.3376478308062674
+1791,Orco +/+ gamma vs. Orco +/+ gamma shuffle dc1,1.0,1.0,0.0,0.0
+1792,Orco +/+ gamma vs. Orco +/+ gamma shuffle dc2,1.5,0.7445101341847106,0.5849625007211562,0.29502881488260313
+1793,Orco +/+ gamma vs. Orco +/+ gamma shuffle dc3,2.0,0.2737739681196415,1.0,1.295452446909176
+1794,Orco +/+ gamma vs. Orco +/+ gamma shuffle dc4,0.2857142857142857,0.1651615526809429,-1.8073549220576042,1.800831176937095
+1795,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl1,2.0,0.2737739681196415,1.0,1.295452446909176
+1796,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl2d,3.0,0.27442466235050983,1.584962500721156,1.2930785097984732
+1797,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl2v,2.0,0.6805029605644197,1.0,0.3849231063278247
+1798,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl3,0.0,0.027904310654982837,-inf,3.5789740983264684
+1799,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl4,0.0,0.4963503649634988,-inf,0.7004732206520279
+1800,Orco +/+ gamma vs. Orco +/+ gamma shuffle dl5,3.0,0.6194647201946454,1.584962500721156,0.4788995283729314
+1801,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm1,0.7777777777777778,0.791188186642442,-0.36257007938470825,0.23421942972235965
+1802,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm2,2.0,1.0,1.0,0.0
+1803,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm3,0.5,0.6805029605644197,-1.0,0.3849231063278247
+1804,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm4,0.5,0.4929508816896472,-1.0,0.7073457413641525
+1805,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm5,1.5,0.7445101341847106,0.5849625007211562,0.29502881488260313
+1806,Orco +/+ gamma vs. Orco +/+ gamma shuffle dm6,1.1666666666666667,1.0,0.22239242133644802,0.0
+1807,Orco +/+ gamma vs. Orco +/+ gamma shuffle dp1l,1.3333333333333333,1.0,0.41503749927884376,0.0
+1808,Orco +/+ gamma vs. Orco +/+ gamma shuffle dp1m,5.0,0.030629254323873437,2.321928094887362,3.485799703067369
+1809,Orco +/+ gamma vs. Orco +/+ gamma shuffle v,0.0,0.11954582319545788,-inf,2.124055523409111
+1810,Orco +/+ gamma vs. Orco +/+ gamma shuffle va1d,8.0,0.033067345468479364,3.0,3.409209025289496
+1811,Orco +/+ gamma vs. Orco +/+ gamma shuffle va1v,3.0,0.27442466235050983,1.584962500721156,1.2930785097984732
+1812,Orco +/+ gamma vs. Orco +/+ gamma shuffle va2,1.8,0.3985621031751412,0.8479969065549501,0.9198919505473714
+1813,Orco +/+ gamma vs. Orco +/+ gamma shuffle va3,1.8,0.3985621031751412,0.8479969065549501,0.9198919505473714
+1814,Orco +/+ gamma vs. Orco +/+ gamma shuffle va4,1.0,1.0,0.0,0.0
+1815,Orco +/+ gamma vs. Orco +/+ gamma shuffle va5,1.4,0.7639568693779908,0.48542682717024166,0.26924394510291566
+1816,Orco +/+ gamma vs. Orco +/+ gamma shuffle va6,0.7142857142857143,0.7639568693779908,-0.4854268271702417,0.26924394510291566
+1817,Orco +/+ gamma vs. Orco +/+ gamma shuffle va7l,3.5,0.1651615526809429,1.8073549220576042,1.800831176937095
+1818,Orco +/+ gamma vs. Orco +/+ gamma shuffle va7m,1.25,0.8011589986668555,0.32192809488736235,0.2216958514040285
+1819,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc1,0.0,0.01331796644896919,-inf,4.318641294521298
+1820,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc2,0.25,0.3657745336577404,-2.0,1.0057381636616796
+1821,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc3l,1.6666666666666667,0.7183060453831258,0.7369655941662062,0.33085955369967396
+1822,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc3m,1.25,1.0,0.32192809488736235,0.0
+1823,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc4,1.6,0.561634185987703,0.6780719051126377,0.5769045556379642
+1824,Orco +/+ gamma vs. Orco +/+ gamma shuffle vc5,0.75,0.7790636297378037,-0.4150374992788438,0.2496625551405734
+1825,Orco +/+ gamma vs. Orco +/+ gamma shuffle vl1,1.0,1.0,0.0,0.0
+1826,Orco +/+ gamma vs. Orco +/+ gamma shuffle vl2a,0.75,1.0,-0.4150374992788438,0.0
+1827,Orco +/+ gamma vs. Orco +/+ gamma shuffle vl2p,2.0,0.6805029605644197,1.0,0.3849231063278247
+1828,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm1,0.3333333333333333,0.27442466235050983,-1.5849625007211563,1.2930785097984732
+1829,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm2,2.0,0.36563408645336715,1.0,1.0061222094665487
+1830,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm3,0.6666666666666666,1.0,-0.5849625007211563,0.0
+1831,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm4,0.8888888888888888,1.0,-0.16992500144231243,0.0
+1832,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm5d,1.25,0.8011589986668555,0.32192809488736235,0.2216958514040285
+1833,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm5v,1.5,0.7445101341847106,0.5849625007211562,0.29502881488260313
+1834,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm7d,0.6666666666666666,0.7445101341847106,-0.5849625007211563,0.29502881488260313
+1835,Orco +/+ gamma vs. Orco +/+ gamma shuffle vm7v,0.5714285714285714,0.5316019126719638,-0.8073549220576042,0.6318603541962392
